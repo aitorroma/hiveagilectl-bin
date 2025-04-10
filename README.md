@@ -7,7 +7,7 @@ Este repositorio contiene los binarios precompilados de HiveAgileCTL para difere
 Para instalar HiveAgileCTL en un solo comando:
 
 ```bash
-curl -s https://raw.githubusercontent.com/aitorroma/hiveagilectl-bin/main/get.sh | sudo bash
+/bin/bash -c "$(curl -fsSL https://hiveagilectl.hiveagile.com/)"
 ```
 
 ## 📦 Instalación Manual
