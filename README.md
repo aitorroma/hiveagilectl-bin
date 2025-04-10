@@ -2,13 +2,17 @@
 
 Este repositorio contiene los binarios precompilados de HiveAgileCTL para diferentes arquitecturas.
 
-## Arquitecturas disponibles
+## 🚀 Instalación Rápida
 
-- `hiveagilectl_amd64` - Para sistemas x86_64/amd64
-- `hiveagilectl_arm` - Para sistemas ARM (32-bit)
-- `hiveagilectl_arm64` - Para sistemas ARM64 (64-bit)
+Para instalar HiveAgileCTL en un solo comando:
 
-## Instalación
+```bash
+curl -s https://raw.githubusercontent.com/aitorroma/hiveagilectl-bin/main/get.sh | sudo bash
+```
+
+## 📦 Instalación Manual
+
+Si prefieres instalar manualmente:
 
 1. Descarga el binario correspondiente a tu arquitectura desde la sección de [Releases](https://github.com/aitorroma/hiveagilectl-bin/releases)
 
@@ -22,11 +26,13 @@ chmod +x hiveagilectl_*
 sudo mv hiveagilectl_* /usr/local/bin/hiveagilectl
 ```
 
-4. Ejecuta el programa:
-```bash
-sudo hiveagilectl
-```
+## 🔧 Arquitecturas Soportadas
 
-## Notas
+- `hiveagilectl_amd64` - Para sistemas x86_64/amd64
+- `hiveagilectl_arm` - Para sistemas ARM (32-bit)
+- `hiveagilectl_arm64` - Para sistemas ARM64 (64-bit)
+
+## 📝 Notas
 - El programa debe ejecutarse como root
 - Se requiere una suscripción válida para usar todas las funcionalidades
+- Los cambios y nuevas características se documentan en [CHANGELOG.md](CHANGELOG.md)
