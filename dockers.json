@@ -1162,5 +1162,11 @@
     "descripcion": "Evolution API V2: Nueva versión de la API no oficial para interactuar con WhatsApp Business.",
     "containername": "evolution_v2",
     "categoria": "💬 Comunicación & Chat"
+  },
+  {
+    "nombre": "Komodo",
+    "descripcion": "Komodo es una herramienta que facilita la construcción y el despliegue de software en múltiples servidores. Permite gestionar infraestructuras complejas de manera eficiente y flexible, brindando un enfoque unificado para el manejo de aplicaciones y servicios.",
+    "containername": "komodo",
+    "categoria": "🛠️ DevOps Tools"
   }
 ]
