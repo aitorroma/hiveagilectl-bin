@@ -120,6 +120,12 @@
     "categoria": "📊 Analítica & BI"
   },
   {
+  "nombre": "rybbit",
+  "descripcion": "Rybbit: Plataforma de analítica web ligera, en tiempo real y sin cookies, como alternativa a Google Analytics.",
+  "containername": "rybbit",
+  "categoria": "📊 Analítica & BI"
+  },
+  {
     "nombre": "ohmyform",
     "descripcion": "OhMyForm: Plataforma de código abierto para crear formularios web interactivos (alternativa a Typeform).",
     "containername": "ohmyform",
