@@ -1174,5 +1174,11 @@
     "descripcion": "Komodo es una herramienta que facilita la construcción y el despliegue de software en múltiples servidores. Permite gestionar infraestructuras complejas de manera eficiente y flexible, brindando un enfoque unificado para el manejo de aplicaciones y servicios.",
     "containername": "komodo",
     "categoria": "🛠️ DevOps Tools"
+  },
+    {
+    "nombre": "Horilla",
+    "descripcion": "Horilla es un software gratuito y de código abierto para la gestión de recursos humanos (HRMS) diseñado para ayudar a las organizaciones a automatizar y optimizar sus procesos de RR. HH. Desarrollado sobre el framework Django, Horilla ofrece una solución ERP integral que se puede personalizar según las necesidades específicas de cada empresa .",
+    "containername": "horilla",
+    "categoria": "💼 Finanzas & ERP"
   }
 ]
