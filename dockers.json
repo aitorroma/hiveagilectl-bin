@@ -1186,5 +1186,11 @@
     "descripcion": "VitoDeploy es una herramienta de código abierto y autoalojada para la gestión de servidores y el despliegue de aplicaciones PHP, especialmente útil para desarrolladores que trabajan con frameworks como Laravel. Su objetivo es simplificar la administración de servidores y automatizar tareas comunes de despliegue, ofreciendo una alternativa gratuita a servicios como Laravel Forge.",
     "containername": "vitodeploy",
     "categoria": "🛠️ DevOps Tools"
+  },
+  {
+    "nombre": "Postiz",
+    "descripcion": "Postiz es una herramienta integral de gestión de redes sociales que permite a creadores de contenido, empresas y agencias planificar, crear, programar y analizar publicaciones en múltiples plataformas desde un único panel de control. Su enfoque combina automatización, inteligencia artificial y colaboración en equipo, todo en una solución de código abierto.",
+    "containername": "postiz",
+    "categoria": "👥 CRM & Marketing"
   }
 ]
