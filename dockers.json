@@ -1192,5 +1192,11 @@
     "descripcion": "Postiz es una herramienta integral de gestión de redes sociales que permite a creadores de contenido, empresas y agencias planificar, crear, programar y analizar publicaciones en múltiples plataformas desde un único panel de control. Su enfoque combina automatización, inteligencia artificial y colaboración en equipo, todo en una solución de código abierto.",
     "containername": "postiz",
     "categoria": "👥 CRM & Marketing"
+  },
+  {
+    "nombre": "Evo AI",
+    "descripcion": "Evo AI, una plataforma de código abierto diseñada para crear y gestionar agentes de inteligencia artificial (IA). Esta herramienta permite la integración con diversos modelos de lenguaje y servicios de IA, facilitando la construcción de flujos de trabajo complejos y personalizados",
+    "containername": "evoai",
+    "categoria": "🧠 IA & Automatización"
   }
 ]
