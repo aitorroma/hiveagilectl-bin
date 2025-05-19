@@ -1198,5 +1198,11 @@
     "descripcion": "Evo AI, una plataforma de código abierto diseñada para crear y gestionar agentes de inteligencia artificial (IA). Esta herramienta permite la integración con diversos modelos de lenguaje y servicios de IA, facilitando la construcción de flujos de trabajo complejos y personalizados",
     "containername": "evoai",
     "categoria": "🧠 IA & Automatización"
+  },
+  {
+    "nombre": "MiniQR",
+    "descripcion": "MiniQR es una app web de código abierto para crear y escanear códigos QR de forma sencilla y personalizable. Desarrollada con Vue 3, permite añadir colores, marcos, logotipos y exportar en PNG, JPG o SVG. Soporta escaneo desde cámara o imagen, datos como URLs, WiFi, vCards o eventos, y generación por lotes con CSV.",
+    "containername": "miniqr",
+    "categoria": "👥 CRM & Marketing"
   }
 ]
