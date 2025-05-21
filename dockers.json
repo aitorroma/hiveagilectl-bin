@@ -1204,5 +1204,11 @@
     "descripcion": "MiniQR es una app web de código abierto para crear y escanear códigos QR de forma sencilla y personalizable. Desarrollada con Vue 3, permite añadir colores, marcos, logotipos y exportar en PNG, JPG o SVG. Soporta escaneo desde cámara o imagen, datos como URLs, WiFi, vCards o eventos, y generación por lotes con CSV.",
     "containername": "miniqr",
     "categoria": "👥 CRM & Marketing"
+  },
+  {
+    "nombre": "TrailBase",
+    "descripcion": "TrailBase es un servidor de aplicaciones de código abierto, ultra rápido y autoalojable, diseñado como una alternativa ligera a Firebase y Supabase. Su arquitectura está optimizada para el alto rendimiento, con latencias de submilisegundo, incluso sin caché, gracias al uso de Rust, SQLite embebido y el motor V8 para ejecutar lógica en JavaScript o TypeScript.",
+    "containername": "trailbase",
+    "categoria": "🌐 Web & CMS"
   }
 ]
