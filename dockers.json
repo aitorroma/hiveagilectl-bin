@@ -1210,5 +1210,11 @@
     "descripcion": "TrailBase es un servidor de aplicaciones de código abierto, ultra rápido y autoalojable, diseñado como una alternativa ligera a Firebase y Supabase. Su arquitectura está optimizada para el alto rendimiento, con latencias de submilisegundo, incluso sin caché, gracias al uso de Rust, SQLite embebido y el motor V8 para ejecutar lógica en JavaScript o TypeScript.",
     "containername": "trailbase",
     "categoria": "🌐 Web & CMS"
+  },
+  {
+    "nombre": "Maxun",
+    "descripcion": "Maxun es una plataforma de extracción de datos web de código abierto y sin necesidad de programación, diseñada para facilitar la recopilación automatizada de información desde sitios web. Permite crear "robots" personalizados que simulan acciones humanas para extraer datos de manera automática, sin requerir conocimientos técnicos avanzados.",
+    "containername": "maxun",
+    "categoria": "🧠 IA & Automatización"
   }
 ]
