@@ -1216,5 +1216,11 @@
     "descripcion": "Maxun es una plataforma de extracción de datos web de código abierto y sin necesidad de programación, diseñada para facilitar la recopilación automatizada de información desde sitios web. Permite crear robots personalizados que simulan acciones humanas para extraer datos de manera automática, sin requerir conocimientos técnicos avanzados.",
     "containername": "maxun",
     "categoria": "🧠 IA & Automatización"
+  },
+  {
+    "nombre": "NocoBase",
+    "descripcion": "NocoBase es una plataforma de desarrollo no-code y low-code de código abierto, diseñada para crear aplicaciones empresariales complejas de forma rápida y flexible. Está pensada para equipos técnicos que necesitan construir sistemas internos como CRM, ERP, paneles administrativos o flujos de trabajo personalizados, sin depender de soluciones propietarias o con limitaciones de personalización.",
+    "containername": "nocobase",
+    "categoria": "📊 Analítica & BI"
   }
 ]
