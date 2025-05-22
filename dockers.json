@@ -1222,5 +1222,11 @@
     "descripcion": "NocoBase es una plataforma de desarrollo no-code y low-code de código abierto, diseñada para crear aplicaciones empresariales complejas de forma rápida y flexible. Está pensada para equipos técnicos que necesitan construir sistemas internos como CRM, ERP, paneles administrativos o flujos de trabajo personalizados, sin depender de soluciones propietarias o con limitaciones de personalización.",
     "containername": "nocobase",
     "categoria": "📊 Analítica & BI"
+  },
+  {
+    "nombre": "Warracker",
+    "descripcion": "Warracker es una aplicación web de código abierto diseñada para ayudarte a gestionar garantías de productos, fechas de expiración y documentos relacionados de manera sencilla y centralizada. Ofrece funcionalidades como almacenamiento de documentos, alertas visuales sobre el estado de las garantías, soporte para múltiples usuarios y exportación/importación de datos.",
+    "containername": "warracker",
+    "categoria": "📁 Gestión de archivos"
   }
 ]
