@@ -1240,5 +1240,11 @@
     "descripcion": "Kutt es un acortador de URLs moderno, gratuito y de código abierto, diseñado para ofrecer una alternativa autoalojada a servicios como Bitly, TinyURL o Rebrandly. Permite a los usuarios crear enlaces personalizados, protegerlos con contraseña, establecer fechas de expiración y gestionar estadísticas detalladas de clics. Además, Kutt admite el uso de dominios personalizados y proporciona una API RESTful para integraciones. Su interfaz es minimalista y cuenta con extensiones para navegadores, lo que facilita su uso tanto para usuarios individuales como para organizaciones que buscan controlar y personalizar su propio servicio de acortamiento de enlaces.",
     "containername": "kutt",
     "categoria": "👥 CRM & Marketing"
+  },
+  {
+    "nombre": "Perfex CRM",
+    "descripcion": "Perfex CRM es un software de gestión de relaciones con clientes (CRM) autoalojado, diseñado para ayudar a pequeñas y medianas empresas, así como a profesionales independientes, a centralizar y automatizar procesos clave como ventas, proyectos, facturación y atención al cliente.",
+    "containername": "perfexcrm",
+    "categoria": "👥 CRM & Marketing"
   }
 ]
