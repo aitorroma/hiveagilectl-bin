@@ -1234,5 +1234,11 @@
     "descripcion": "Erugo es una plataforma de intercambio de archivos autohospedada, de código abierto y gratuita, diseñada como una alternativa moderna a servicios como WeTransfer. Permite subir, proteger y compartir archivos de forma segura a través de una interfaz intuitiva, con opciones avanzadas como protección por contraseña, enlaces de subida inversa, expiración automática de enlaces y autenticación externa. Al estar pensada para ser desplegada en servidores propios mediante Docker, Erugo ofrece a los usuarios control total sobre sus datos y la privacidad de sus transferencias.",
     "containername": "erugo",
     "categoria": "📁 Gestión de archivos"
+  },
+  {
+    "nombre": "Kutt",
+    "descripcion": "Kutt es un acortador de URLs moderno, gratuito y de código abierto, diseñado para ofrecer una alternativa autoalojada a servicios como Bitly, TinyURL o Rebrandly. Permite a los usuarios crear enlaces personalizados, protegerlos con contraseña, establecer fechas de expiración y gestionar estadísticas detalladas de clics. Además, Kutt admite el uso de dominios personalizados y proporciona una API RESTful para integraciones. Su interfaz es minimalista y cuenta con extensiones para navegadores, lo que facilita su uso tanto para usuarios individuales como para organizaciones que buscan controlar y personalizar su propio servicio de acortamiento de enlaces.",
+    "containername": "kutt",
+    "categoria": "👥 CRM & Marketing"
   }
 ]
