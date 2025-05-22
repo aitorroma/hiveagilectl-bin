@@ -1228,5 +1228,11 @@
     "descripcion": "Warracker es una aplicación web de código abierto diseñada para ayudarte a gestionar garantías de productos, fechas de expiración y documentos relacionados de manera sencilla y centralizada. Ofrece funcionalidades como almacenamiento de documentos, alertas visuales sobre el estado de las garantías, soporte para múltiples usuarios y exportación/importación de datos.",
     "containername": "warracker",
     "categoria": "📁 Gestión de archivos"
+  },
+  {
+    "nombre": "Erugo",
+    "descripcion": "Erugo es una plataforma de intercambio de archivos autohospedada, de código abierto y gratuita, diseñada como una alternativa moderna a servicios como WeTransfer. Permite subir, proteger y compartir archivos de forma segura a través de una interfaz intuitiva, con opciones avanzadas como protección por contraseña, enlaces de subida inversa, expiración automática de enlaces y autenticación externa. Al estar pensada para ser desplegada en servidores propios mediante Docker, Erugo ofrece a los usuarios control total sobre sus datos y la privacidad de sus transferencias.",
+    "containername": "erugo",
+    "categoria": "📁 Gestión de archivos"
   }
 ]
