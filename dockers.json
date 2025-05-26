@@ -113,7 +113,7 @@
     "nombre": "webtop",
     "descripcion": "Webtop: Entorno de escritorio Linux completo accesible a través de un navegador web.",
     "containername": "webtop",
-    "categoria": "🛡️ Infraestructura & Redes",
+    "categoria": "🏗️ Infraestructura & Redes",
     "links": {
       "github": "https://github.com/linuxserver/docker-webtop",
       "website": "https://docs.linuxserver.io/images/docker-webtop/",
@@ -306,19 +306,34 @@
     "nombre": "wirow",
     "descripcion": "Wirow: Solución de videoconferencia privada y autoalojada.",
     "containername": "wirow",
-    "categoria": "💬 Comunicación & Chat"
+    "categoria": "💬 Comunicación & Chat",
+    "links": {
+      "github": "https://github.com/wirow-io/wirow-server",
+      "website": "https://wirow.io",
+      "docs": "https://github.com/wirow-io/wirow-server/blob/master/docs/wirow.adoc"
+    }
   },
   {
     "nombre": "lurnby",
     "descripcion": "Lurnby: Herramienta web para guardar, leer y resaltar artículos y páginas web.",
     "containername": "lurnby",
-    "categoria": "📚 Documentación & Wiki"
+    "categoria": "📚 Documentación & Wiki",
+    "links": {
+      "github": "https://github.com/Roznoshchik/Lurnby",
+      "website": "https://www.lurnby.com/",
+      "docs": "https://github.com/Roznoshchik/Lurnby/blob/main/install.md"
+    }
   },
   {
     "nombre": "dmarcalitycs",
     "descripcion": "DMARC Analytics: Plataforma para analizar y visualizar informes DMARC de seguridad de correo electrónico.",
     "containername": "dmarcalitycs",
-    "categoria": "🛡️ Seguridad & Backup"
+    "categoria": "🛡️ Seguridad & Backup",
+    "links": {
+      "github": "not found",
+      "website": "not found",
+      "docs": "not found"
+    }
   },
   {
     "nombre": "traggo",
@@ -390,43 +405,78 @@
     "nombre": "lincebi",
     "descripcion": "LinceBI: Herramienta de Business Intelligence (BI) de código abierto basada en Pentaho.",
     "containername": "lincebi",
-    "categoria": "📊 Analítica & BI"
+    "categoria": "📊 Analítica & BI",
+    "links": {
+      "github": "https://github.com/LinceBI/lincebi",
+      "website": "https://www.lincebi.com/",
+      "docs": "https://lincebi.com/docs.html"
+    }
   },
   {
     "nombre": "seafile",
     "descripcion": "Seafile: Solución de sincronización y compartición de archivos con edición online (OnlyOffice) y gestión de contactos/calendarios (Radicale).",
     "containername": "seafile",
-    "categoria": "📁 Gestión de archivos"
+    "categoria": "📁 Gestión de archivos",
+    "links": {
+      "github": "https://github.com/haiwen/seafile",
+      "website": "https://www.seafile.com/en/home/",
+      "docs": "https://manual.seafile.com/"
+    }
   },
   {
     "nombre": "ansible_semaphore",
     "descripcion": "Ansible Semaphore + Gogs: Interfaz gráfica para Ansible y servidor Git ligero.",
     "containername": "ansible_semaphore",
-    "categoria": "🛠️ DevOps Tools"
+    "categoria": "🔧️ DevOps Tools",
+    "links": {
+      "github": "https://github.com/semaphoreui/semaphore",
+      "website": "https://semaphoreui.com/",
+      "docs": "https://docs.semaphoreui.com/"
+    }
   },
   {
     "nombre": "playbooks",
     "descripcion": "Ansible Playbooks: Repositorio con playbooks de Ansible de ejemplo para usar con Semaphore u otros.",
     "containername": "playbooks",
-    "categoria": "📦 Herramientas Dev"
+    "categoria": "💶 Herramientas Dev",
+    "links": {
+      "github": "not found",
+      "website": "not found",
+      "docs": "not found"
+    }
   },
   {
     "nombre": "ntfy",
     "descripcion": "ntfy: Servidor de notificaciones push simple basado en HTTP (publish-subscribe).",
     "containername": "ntfy",
-    "categoria": "🏗️ Infraestructura & Redes"
+    "categoria": "🏗️ Infraestructura & Redes",
+    "links": {
+      "github": "https://github.com/binwiederhier/ntfy",
+      "website": "https://ntfy.sh/",
+      "docs": "https://docs.ntfy.sh/"
+    }
   },
   {
     "nombre": "suitecrm",
     "descripcion": "SuiteCRM: Solución CRM (Customer Relationship Management) de código abierto.",
     "containername": "suitecrm",
-    "categoria": "👥 CRM & Marketing"
+    "categoria": "👥 CRM & Marketing",
+    "links": {
+      "github": "https://github.com/salesagility/SuiteCRM",
+      "website": "https://suitecrm.com/",
+      "docs": "https://docs.suitecrm.com/"
+    }
   },
   {
     "nombre": "redmine",
     "descripcion": "Redmine: Aplicación web flexible para la gestión de proyectos y seguimiento de incidencias.",
     "containername": "redmine",
-    "categoria": "🛠️ DevOps Tools"
+    "categoria": "🔧️ DevOps Tools",
+    "links": {
+      "github": "https://github.com/redmine/redmine",
+      "website": "https://www.redmine.org/",
+      "docs": "https://www.redmine.org/guide"
+    }
   },
   {
     "nombre": "JellyFin",
@@ -443,7 +493,12 @@
     "nombre": "Matomo",
     "descripcion": "Matomo: Plataforma de analítica web de código abierto, alternativa a Google Analytics con control total de los datos.",
     "containername": "Matomo",
-    "categoria": "📊 Analítica & BI"
+    "categoria": "📊 Analítica & BI",
+    "links": {
+      "github": "https://github.com/matomo-org/matomo",
+      "website": "https://matomo.org/",
+      "docs": "https://matomo.org/guides/"
+    }
   },
   {
     "nombre": "UptimeKuma",
@@ -460,7 +515,12 @@
     "nombre": "MonicaHQ",
     "descripcion": "Monica HQ: Sistema de gestión de relaciones personales (CRM Personal) de código abierto.",
     "containername": "MonicaHQ",
-    "categoria": "👥 CRM & Marketing"
+    "categoria": "👥 CRM & Marketing",
+    "links": {
+      "github": "https://github.com/monicahq/monica",
+      "website": "https://www.monicahq.com/",
+      "docs": "https://docs.monicahq.com/"
+    }
   },
   {
     "nombre": "ElkarBackup",
@@ -503,9 +563,14 @@
   },
   {
     "nombre": "Element",
-    "descripcion": "Element: Cliente seguro para Matrix, aplicación de mensajería y colaboración en equipo.",
+    "descripcion": "Element: Cliente de mensajería segura basado en Matrix, con cifrado de extremo a extremo.",
     "containername": "Element",
-    "categoria": "💬 Comunicación & Chat"
+    "categoria": "💬 Comunicación & Chat",
+    "links": {
+      "github": "https://github.com/element-hq/element-web",
+      "website": "https://element.io/",
+      "docs": "https://matrix.org/docs/projects/client/element/"
+    }
   },
   {
     "nombre": "ArchiveBox",
@@ -529,19 +594,34 @@
     "nombre": "PodGrab",
     "descripcion": "PodGrab: Administrador y descargador de podcasts autoalojado.",
     "containername": "PodGrab",
-    "categoria": "🎥 Streaming & Medios"
+    "categoria": "🎙️ Streaming & Medios",
+    "links": {
+      "github": "https://github.com/akhilrex/podgrab",
+      "website": "",
+      "docs": "https://github.com/akhilrex/podgrab/blob/master/README.md"
+    }
   },
   {
     "nombre": "MigasFree",
     "descripcion": "MigasFree: Herramienta de inventario y gestión de parque informático de código abierto.",
     "containername": "MigasFree",
-    "categoria": "🏗️ Infraestructura & Redes"
+    "categoria": "🏗️ Infraestructura & Redes",
+    "links": {
+      "github": "https://github.com/migasfree/migasfree",
+      "website": "https://migasfree.org/",
+      "docs": "https://docs.migasfree.org/"
+    }
   },
   {
     "nombre": "LimeSurvey",
     "descripcion": "LimeSurvey: Software multilingüe de código abierto para crear y gestionar encuestas online.",
     "containername": "LimeSurvey",
-    "categoria": "👥 CRM & Marketing"
+    "categoria": "👥 CRM & Marketing",
+    "links": {
+      "github": "https://github.com/LimeSurvey/LimeSurvey",
+      "website": "https://www.limesurvey.org/",
+      "docs": "https://manual.limesurvey.org/LimeSurvey_Manual"
+    }
   },
   {
     "nombre": "Portainer",
@@ -558,43 +638,78 @@
     "nombre": "Alf.io",
     "descripcion": "Alf.io: Sistema de gestión de eventos y venta de entradas de código abierto.",
     "containername": "Alf.io",
-    "categoria": "💼 Finanzas & ERP"
+    "categoria": "💼 Finanzas & ERP",
+    "links": {
+      "github": "https://github.com/alfio-event/alf.io",
+      "website": "https://alf.io/",
+      "docs": "https://docs.alf.io/"
+    }
   },
   {
     "nombre": "TimeOff",
     "descripcion": "TimeOff Management: Software para la gestión de ausencias y vacaciones en equipos de RRHH.",
     "containername": "TimeOff",
-    "categoria": "💼 Finanzas & ERP"
+    "categoria": "💼 Finanzas & ERP",
+    "links": {
+      "github": "",
+      "website": "",
+      "docs": ""
+    }
   },
   {
     "nombre": "PaperlessNG",
     "descripcion": "Paperless-ngx: Sistema de gestión documental que transforma documentos físicos en archivos digitales organizados y buscables.",
     "containername": "PaperlessNG",
-    "categoria": "📁 Gestión de archivos"
+    "categoria": "📁 Gestión de archivos",
+    "links": {
+      "github": "https://github.com/jonaswinkler/paperless-ng",
+      "website": "https://paperless-ng.readthedocs.io/",
+      "docs": "https://paperless-ng.readthedocs.io/"
+    }
   },
   {
     "nombre": "Strapi",
     "descripcion": "Strapi: CMS Headless de código abierto para construir APIs de contenido personalizables.",
     "containername": "Strapi",
-    "categoria": "🌐 Web & CMS"
+    "categoria": "🌐 Web & CMS",
+    "links": {
+      "github": "https://github.com/strapi/strapi",
+      "website": "https://strapi.io/",
+      "docs": "https://docs.strapi.io/"
+    }
   },
   {
     "nombre": "Kavita",
     "descripcion": "Kavita: Servidor rápido y multifuncional para leer manga, cómics y libros.",
     "containername": "Kavita",
-    "categoria": "🎥 Streaming & Medios"
+    "categoria": "🎙️ Streaming & Medios",
+    "links": {
+      "github": "https://github.com/Kareadita/Kavita",
+      "website": "https://www.kavitareader.com/",
+      "docs": "https://wiki.kavitareader.com/"
+    }
   },
   {
     "nombre": "Navidrome",
     "descripcion": "Navidrome: Servidor de música moderno y autoalojado compatible con clientes Subsonic/WebDAV.",
     "containername": "Navidrome",
-    "categoria": "🎥 Streaming & Medios"
+    "categoria": "🎙️ Streaming & Medios",
+    "links": {
+      "github": "https://github.com/navidrome/navidrome",
+      "website": "https://www.navidrome.org/",
+      "docs": "https://www.navidrome.org/docs/"
+    }
   },
   {
     "nombre": "mkdocs",
     "descripcion": "MkDocs: Generador de sitios estáticos rápido y simple, ideal para documentación de proyectos.",
     "containername": "mkdocs",
-    "categoria": "📚 Documentación & Wiki"
+    "categoria": "📚 Documentación & Wiki",
+    "links": {
+      "github": "https://github.com/mkdocs/mkdocs",
+      "website": "https://www.mkdocs.org/",
+      "docs": "https://www.mkdocs.org/user-guide/"
+    }
   },
   {
     "nombre": "discourse",
@@ -611,7 +726,12 @@
     "nombre": "jellyseerr",
     "descripcion": "Jellyseerr: Sistema de gestión de solicitudes para bibliotecas multimedia (Jellyfin/Plex).",
     "containername": "jellyseerr",
-    "categoria": "🎥 Streaming & Medios"
+    "categoria": "🎙️ Streaming & Medios",
+    "links": {
+      "github": "https://github.com/Fallenbagel/jellyseerr",
+      "website": "https://jellyseerr.dev/",
+      "docs": "https://docs.jellyseerr.dev/"
+    }
   },
   {
     "nombre": "rsshub",
@@ -628,13 +748,23 @@
     "nombre": "screego",
     "descripcion": "Screego: Herramienta simple y eficiente para compartir pantalla con múltiples usuarios y baja latencia.",
     "containername": "screego",
-    "categoria": "💬 Comunicación & Chat"
+    "categoria": "💬 Comunicación & Chat",
+    "links": {
+      "github": "https://github.com/screego/server",
+      "website": "https://screego.net/",
+      "docs": "https://github.com/screego/server#documentation"
+    }
   },
   {
     "nombre": "documize",
     "descripcion": "Documize: Plataforma moderna y ligera de gestión del conocimiento y documentación (alternativa a Confluence).",
     "containername": "documize",
-    "categoria": "📚 Documentación & Wiki"
+    "categoria": "📚 Documentación & Wiki",
+    "links": {
+      "github": "https://github.com/documize/community",
+      "website": "https://www.documize.com/",
+      "docs": "https://docs.documize.com/"
+    }
   },
   {
     "nombre": "meilisearch",
@@ -717,7 +847,7 @@
     "nombre": "adguard",
     "descripcion": "AdGuard Home + wg-easy: Bloqueador de anuncios a nivel de red y gestión de VPN WireGuard.",
     "containername": "adguard",
-    "categoria": "🛡️ Infraestructura & Redes",
+    "categoria": "🏗️ Infraestructura & Redes",
     "links": {
       "github": "https://github.com/AdguardTeam/AdGuardHome",
       "website": "https://adguard.com/es/adguard-home/overview.html",
@@ -739,7 +869,12 @@
     "nombre": "BlackStone",
     "descripcion": "BlackStone: Plataforma colaborativa para la gestión de informes de pruebas de penetración (Pentesting).",
     "containername": "BlackStone",
-    "categoria": "🛡️ Seguridad & Backup"
+    "categoria": "🛡️ Seguridad & Backup",
+    "links": {
+      "github": "",
+      "website": "",
+      "docs": ""
+    }
   },
   {
     "nombre": "immich",
@@ -767,49 +902,89 @@
     "nombre": "checkmk",
     "descripcion": "Checkmk: Solución completa de monitorización de infraestructura IT y aplicaciones.",
     "containername": "checkmk",
-    "categoria": "🛠️ DevOps Tools"
+    "categoria": "🔧️ DevOps Tools",
+    "links": {
+      "github": "https://github.com/Checkmk/checkmk",
+      "website": "https://checkmk.com/",
+      "docs": "https://docs.checkmk.com/"
+    }
   },
   {
     "nombre": "orangehrm",
     "descripcion": "OrangeHRM: Software de gestión de recursos humanos (HRM) de código abierto.",
     "containername": "orangehrm",
-    "categoria": "💼 Finanzas & ERP"
+    "categoria": "💼 Finanzas & ERP",
+    "links": {
+      "github": "https://github.com/orangehrm/orangehrm",
+      "website": "https://www.orangehrm.com/",
+      "docs": "https://starter.orangehrm.com/user-guide/"
+    }
   },
   {
     "nombre": "leantime",
     "descripcion": "Leantime: Sistema de gestión de proyectos de código abierto basado en metodologías Lean y Agile.",
     "containername": "leantime",
-    "categoria": "🛠️ DevOps Tools"
+    "categoria": "🔧️ DevOps Tools",
+    "links": {
+      "github": "https://github.com/Leantime/leantime",
+      "website": "https://leantime.io/",
+      "docs": "https://docs.leantime.io/"
+    }
   },
   {
     "nombre": "espocrm",
     "descripcion": "EspoCRM: Software CRM (Customer Relationship Management) de código abierto, rápido y personalizable.",
     "containername": "espocrm",
-    "categoria": "👥 CRM & Marketing"
+    "categoria": "👥 CRM & Marketing",
+    "links": {
+      "github": "https://github.com/espocrm/espocrm",
+      "website": "https://www.espocrm.com/",
+      "docs": "https://docs.espocrm.com/"
+    }
   },
   {
     "nombre": "wger",
     "descripcion": "wger Workout Manager: Aplicación web de código abierto para gestionar entrenamientos y nutrición.",
     "containername": "wger",
-    "categoria": "💼 Finanzas & ERP"
+    "categoria": "💼 Finanzas & ERP",
+    "links": {
+      "github": "https://github.com/wger-project/wger",
+      "website": "https://wger.de/",
+      "docs": "https://wger.readthedocs.io/"
+    }
   },
   {
     "nombre": "hedgedoc",
     "descripcion": "HedgeDoc (formerly CodiMD): Editor colaborativo de Markdown en tiempo real.",
     "containername": "hedgedoc",
-    "categoria": "📚 Documentación & Wiki"
+    "categoria": "📚 Documentación & Wiki",
+    "links": {
+      "github": "https://github.com/hedgedoc/hedgedoc",
+      "website": "https://hedgedoc.org/",
+      "docs": "https://docs.hedgedoc.org/"
+    }
   },
   {
     "nombre": "flectra",
     "descripcion": "Flectra: ERP/CRM basado en Odoo con funcionalidades adicionales y enfoque empresarial.",
     "containername": "flectra",
-    "categoria": "💼 Finanzas & ERP"
+    "categoria": "💼 Finanzas & ERP",
+    "links": {
+      "github": "https://github.com/flectrahq/flectra",
+      "website": "https://www.flectrahq.com/",
+      "docs": "https://www.flectrahq.com/documentation/"
+    }
   },
   {
     "nombre": "dolibarr",
     "descripcion": "Dolibarr ERP/CRM: Software modular de código abierto para gestión empresarial (PYMES, autónomos).",
     "containername": "dolibarr",
-    "categoria": "💼 Finanzas & ERP"
+    "categoria": "💼 Finanzas & ERP",
+    "links": {
+      "github": "https://github.com/Dolibarr/dolibarr",
+      "website": "https://www.dolibarr.org/",
+      "docs": "https://wiki.dolibarr.org/"
+    }
   },
   {
     "nombre": "glpi",
@@ -837,31 +1012,56 @@
     "nombre": "observium",
     "descripcion": "Observium: Plataforma de monitorización de redes basada en SNMP con descubrimiento automático.",
     "containername": "observium",
-    "categoria": "🏗️ Infraestructura & Redes"
+    "categoria": "🏗️ Infraestructura & Redes",
+    "links": {
+      "github": "https://github.com/observium/observium",
+      "website": "https://www.observium.org/",
+      "docs": "https://docs.observium.org/"
+    }
   },
   {
     "nombre": "babybuddy",
     "descripcion": "Baby Buddy: Aplicación para el seguimiento de las actividades y hábitos de los bebés (sueño, alimentación, pañales, etc.).",
     "containername": "babybuddy",
-    "categoria": "📁 Gestión de archivos"
+    "categoria": "📁 Gestión de archivos",
+    "links": {
+      "github": "https://github.com/babybuddy/babybuddy",
+      "website": "https://babybuddy.net/",
+      "docs": "https://docs.babybuddy.net/"
+    }
   },
   {
     "nombre": "plik",
     "descripcion": "Plik: Herramienta de compartición temporal de archivos de código abierto (alternativa a WeTransfer).",
     "containername": "plik",
-    "categoria": "📁 Gestión de archivos"
+    "categoria": "📁 Gestión de archivos",
+    "links": {
+      "github": "https://github.com/root-gg/plik",
+      "website": "https://plik.root.gg/",
+      "docs": "https://github.com/root-gg/plik/blob/master/README.md"
+    }
   },
   {
     "nombre": "picsur",
     "descripcion": "Picsur: Servicio autoalojado simple para el alojamiento y compartición de imágenes.",
     "containername": "picsur",
-    "categoria": "📁 Gestión de archivos"
+    "categoria": "📁 Gestión de archivos",
+    "links": {
+      "github": "https://github.com/CaramelFur/Picsur",
+      "website": "",
+      "docs": "https://github.com/CaramelFur/Picsur/blob/main/docs/README.md"
+    }
   },
   {
     "nombre": "openvas",
     "descripcion": "OpenVAS (GVM): Escáner de vulnerabilidades de código abierto y framework de gestión de vulnerabilidades.",
     "containername": "openvas",
-    "categoria": "🛡️ Seguridad & Backup"
+    "categoria": "🛡️ Seguridad & Backup",
+    "links": {
+      "github": "https://github.com/greenbone/openvas-scanner",
+      "website": "https://www.openvas.org/",
+      "docs": "https://docs.greenbone.net/"
+    }
   },
   {
     "nombre": "n8n",
@@ -878,37 +1078,67 @@
     "nombre": "peertube",
     "descripcion": "PeerTube: Plataforma federada (ActivityPub) y descentralizada para alojamiento y streaming de vídeo.",
     "containername": "peertube",
-    "categoria": "🎥 Streaming & Medios"
+    "categoria": "🎙️ Streaming & Medios",
+    "links": {
+      "github": "https://github.com/Chocobozzz/PeerTube",
+      "website": "https://joinpeertube.org/",
+      "docs": "https://docs.joinpeertube.org/"
+    }
   },
   {
     "nombre": "soapbox",
     "descripcion": "Soapbox BE: Backend ligero para el fediverso compatible con la API de Mastodon (usado por Rebased FE).",
     "containername": "soapbox",
-    "categoria": "💬 Comunicación & Chat"
+    "categoria": "💬 Comunicación & Chat",
+    "links": {
+      "github": "https://github.com/soapbox-pub/soapbox",
+      "website": "https://soapbox.pub/",
+      "docs": "https://docs.soapbox.pub/"
+    }
   },
   {
     "nombre": "mastodon",
     "descripcion": "Mastodon: Software libre y de código abierto para ejecutar redes sociales autoalojadas (Fediverso).",
     "containername": "mastodon",
-    "categoria": "💬 Comunicación & Chat"
+    "categoria": "💬 Comunicación & Chat",
+    "links": {
+      "github": "https://github.com/mastodon/mastodon",
+      "website": "https://joinmastodon.org/",
+      "docs": "https://docs.joinmastodon.org/"
+    }
   },
   {
     "nombre": "akaunting",
     "descripcion": "Akaunting: Software de contabilidad online gratuito y de código abierto para pequeñas empresas.",
     "containername": "akaunting",
-    "categoria": "💼 Finanzas & ERP"
+    "categoria": "💼 Finanzas & ERP",
+    "links": {
+      "github": "https://github.com/akaunting/akaunting",
+      "website": "https://akaunting.com/",
+      "docs": "https://akaunting.com/docs/"
+    }
   },
   {
     "nombre": "wg-easy",
     "descripcion": "WG Easy: Interfaz web sencilla para gestionar un servidor VPN WireGuard.",
     "containername": "wg-easy",
-    "categoria": "🏗️ Infraestructura & Redes"
+    "categoria": "🏗️ Infraestructura & Redes",
+    "links": {
+      "github": "https://github.com/wg-easy/wg-easy",
+      "website": "",
+      "docs": "https://github.com/wg-easy/wg-easy/blob/master/README.md"
+    }
   },
   {
     "nombre": "lepatron",
     "descripcion": "LePatron: Editor de correo electrónico (Email Marketing Editor) MJML de código abierto.",
     "containername": "lepatron",
-    "categoria": "👥 CRM & Marketing"
+    "categoria": "👥 CRM & Marketing",
+    "links": {
+      "github": "",
+      "website": "",
+      "docs": ""
+    }
   },
   {
     "nombre": "answer",
@@ -936,37 +1166,67 @@
     "nombre": "speedtesttracker",
     "descripcion": "Speedtest Tracker: Ejecuta pruebas de velocidad de Internet periódicamente y grafica los resultados.",
     "containername": "speedtesttracker",
-    "categoria": "🏗️ Infraestructura & Redes"
+    "categoria": "🏗️ Infraestructura & Redes",
+    "links": {
+      "github": "https://github.com/henrywhitaker3/Speedtest-Tracker",
+      "website": "",
+      "docs": "https://github.com/henrywhitaker3/Speedtest-Tracker/blob/master/README.md"
+    }
   },
   {
     "nombre": "2fauth",
     "descripcion": "2FAuth: Aplicación web autoalojable para gestionar tus códigos de autenticación de dos factores (2FA/TOTP).",
     "containername": "2fauth",
-    "categoria": "🛡️ Seguridad & Backup"
+    "categoria": "🛡️ Seguridad & Backup",
+    "links": {
+      "github": "https://github.com/Bubka/2FAuth",
+      "website": "https://2fauth.app/",
+      "docs": "https://docs.2fauth.app/"
+    }
   },
   {
     "nombre": "memos",
     "descripcion": "Memos: Centro de notas autoalojado, ligero y de código abierto con gestión del conocimiento.",
     "containername": "memos",
-    "categoria": "📚 Documentación & Wiki"
+    "categoria": "📚 Documentación & Wiki",
+    "links": {
+      "github": "https://github.com/usememos/memos",
+      "website": "https://www.usememos.com/",
+      "docs": "https://www.usememos.com/docs"
+    }
   },
   {
     "nombre": "planka",
     "descripcion": "Planka: Tablero Kanban de código abierto para gestión de tareas y proyectos (alternativa a Trello).",
     "containername": "planka",
-    "categoria": "🛠️ DevOps Tools"
+    "categoria": "🔧️ DevOps Tools",
+    "links": {
+      "github": "https://github.com/plankanban/planka",
+      "website": "https://planka.app/",
+      "docs": "https://github.com/plankanban/planka/blob/master/README.md"
+    }
   },
   {
     "nombre": "homebox",
     "descripcion": "Homebox: Sistema de inventario y organización para el hogar, de código abierto.",
     "containername": "homebox",
-    "categoria": "📁 Gestión de archivos"
+    "categoria": "📁 Gestión de archivos",
+    "links": {
+      "github": "https://github.com/hay-kot/homebox",
+      "website": "https://homebox.io/",
+      "docs": "https://github.com/hay-kot/homebox/blob/main/README.md"
+    }
   },
   {
     "nombre": "medvet",
     "descripcion": "Medvet: Herramienta de gestión simple para clínicas veterinarias.",
     "containername": "medvet",
-    "categoria": "💼 Finanzas & ERP"
+    "categoria": "💼 Finanzas & ERP",
+    "links": {
+      "github": "",
+      "website": "",
+      "docs": ""
+    }
   },
   {
     "nombre": "flarum",
@@ -1016,7 +1276,7 @@
     "nombre": "domainmod",
     "descripcion": "DomainMOD: Aplicación de código abierto para gestionar dominios y certificados SSL.",
     "containername": "domainmod",
-    "categoria": "🛡️ Infraestructura & Redes",
+    "categoria": "🏗️ Infraestructura & Redes",
     "links": {
       "github": "https://github.com/domainmod/domainmod",
       "website": "https://domainmod.org/",
@@ -1093,13 +1353,23 @@
     "nombre": "sftpgo",
     "descripcion": "SFTPGo: Servidor SFTP, FTP/S, WebDAV y S3 compatible con múltiples backends de almacenamiento.",
     "containername": "sftpgo",
-    "categoria": "📁 Gestión de archivos"
+    "categoria": "📁 Gestión de archivos",
+    "links": {
+      "github": "https://github.com/drakkan/sftpgo",
+      "website": "https://github.com/drakkan/sftpgo",
+      "docs": "https://github.com/drakkan/sftpgo/tree/main/docs"
+    }
   },
   {
     "nombre": "mind",
     "descripcion": "Mind breathing: Aplicación simple de recordatorios y ejercicios de respiración.",
     "containername": "mind",
-    "categoria": "🛠️ DevOps Tools"
+    "categoria": "🔧️ DevOps Tools",
+    "links": {
+      "github": "https://github.com/Casvt/MIND",
+      "website": "",
+      "docs": "https://casvt.github.io/MIND/"
+    }
   },
   {
     "nombre": "RocketChat",
@@ -1182,7 +1452,7 @@
     "nombre": "rustdesk",
     "descripcion": "RustDesk: Software de escritorio remoto de código abierto (alternativa a TeamViewer/AnyDesk).",
     "containername": "rustdesk",
-    "categoria": "🛡️ Infraestructura & Redes",
+    "categoria": "🏗️ Infraestructura & Redes",
     "links": {
       "github": "https://github.com/rustdesk/rustdesk",
       "website": "https://rustdesk.com",
@@ -1204,133 +1474,243 @@
     "nombre": "littlelink",
     "descripcion": "LittleLink: Página de aterrizaje ligera y autoalojable para mostrar múltiples enlaces (alternativa a Linktree).",
     "containername": "littlelink",
-    "categoria": "🌐 Web & CMS"
+    "categoria": "🌐 Web & CMS",
+    "links": {
+      "github": "https://github.com/sethcottle/littlelink",
+      "website": "https://littlelink.io/",
+      "docs": "https://github.com/sethcottle/littlelink/blob/main/README.md"
+    }
   },
   {
     "nombre": "chatpad",
     "descripcion": "Chatpad: Interfaz web premium para interactuar con modelos de lenguaje como ChatGPT.",
     "containername": "chatpad",
-    "categoria": "🧠 IA & Automatización"
+    "categoria": "🧠 IA & Automatización",
+    "links": {
+      "github": "https://github.com/deiucanta/chatpad",
+      "website": "https://chatpad.ai/",
+      "docs": ""
+    }
   },
   {
     "nombre": "mathesar",
     "descripcion": "Mathesar: Interfaz intuitiva para gestionar, visualizar y colaborar en bases de datos PostgreSQL.",
     "containername": "mathesar",
-    "categoria": "📦 Herramientas Dev"
+    "categoria": "📬 Herramientas Dev",
+    "links": {
+      "github": "https://github.com/centerofci/mathesar",
+      "website": "https://mathesar.org/",
+      "docs": "https://docs.mathesar.org/"
+    }
   },
   {
     "nombre": "tastyigniter",
     "descripcion": "TastyIgniter: Plataforma de código abierto para pedidos online y gestión de restaurantes.",
     "containername": "tastyigniter",
-    "categoria": "💼 Finanzas & ERP"
+    "categoria": "💼 Finanzas & ERP",
+    "links": {
+      "github": "https://github.com/tastyigniter/TastyIgniter",
+      "website": "https://tastyigniter.com/",
+      "docs": "https://tastyigniter.com/docs/"
+    }
   },
   {
     "nombre": "pritunl",
     "descripcion": "Pritunl: Servidor VPN empresarial de código abierto (compatible con OpenVPN y WireGuard).",
     "containername": "pritunl",
-    "categoria": "🏗️ Infraestructura & Redes"
+    "categoria": "🏗️ Infraestructura & Redes",
+    "links": {
+      "github": "https://github.com/pritunl/pritunl",
+      "website": "https://pritunl.com/",
+      "docs": "https://docs.pritunl.com/"
+    }
   },
   {
     "nombre": "warpgate",
     "descripcion": "Warpgate: Bastion host (Jump Host) SSH, RDP y MySQL inteligente y autoalojable.",
     "containername": "warpgate",
-    "categoria": "🏗️ Infraestructura & Redes"
+    "categoria": "🏗️ Infraestructura & Redes",
+    "links": {
+      "github": "https://github.com/warp-tech/warpgate",
+      "website": "",
+      "docs": "https://github.com/warp-tech/warpgate/blob/main/README.md"
+    }
   },
   {
     "nombre": "serposcope",
     "descripcion": "Serposcope: Herramienta gratuita y de código abierto para seguimiento de rankings en motores de búsqueda (SEO Rank Tracker).",
     "containername": "serposcope",
-    "categoria": "👥 CRM & Marketing"
+    "categoria": "👥 CRM & Marketing",
+    "links": {
+      "github": "https://github.com/serphacker/serposcope",
+      "website": "https://serposcope.serphacker.com/",
+      "docs": "https://serposcope.serphacker.com/en/docs/"
+    }
   },
   {
     "nombre": "codechat",
     "descripcion": "CodeChat: Integración de chatbots (posiblemente con IA) para la plataforma Chatwoot.",
     "containername": "codechat",
-    "categoria": "🧠 IA & Automatización"
+    "categoria": "🧠 IA & Automatización",
+    "links": {
+      "github": "",
+      "website": "",
+      "docs": ""
+    }
   },
   {
     "nombre": "gpt4free",
     "descripcion": "GPT4Free: Proyecto para intentar acceder a modelos de lenguaje avanzados (GPT-4/3.5) de forma alternativa.",
     "containername": "gpt4free",
-    "categoria": "🧠 IA & Automatización"
+    "categoria": "🧠 IA & Automatización",
+    "links": {
+      "github": "https://github.com/xtekky/gpt4free",
+      "website": "",
+      "docs": "https://github.com/xtekky/gpt4free/blob/main/README.md"
+    }
   },
   {
     "nombre": "rallly",
     "descripcion": "Rallly: Herramienta de programación colaborativa de código abierto (alternativa a Doodle).",
     "containername": "rallly",
-    "categoria": "💬 Comunicación & Chat"
+    "categoria": "💬 Comunicación & Chat",
+    "links": {
+      "github": "https://github.com/lukevella/rallly",
+      "website": "https://rallly.co/",
+      "docs": "https://docs.rallly.co/"
+    }
   },
   {
     "nombre": "guacamole",
     "descripcion": "Apache Guacamole: Gateway de escritorio remoto sin cliente (HTML5) para RDP, VNC, SSH.",
     "containername": "guacamole",
-    "categoria": "🏗️ Infraestructura & Redes"
+    "categoria": "🏗️ Infraestructura & Redes",
+    "links": {
+      "github": "https://github.com/apache/guacamole-server",
+      "website": "https://guacamole.apache.org/",
+      "docs": "https://guacamole.apache.org/doc/gug/"
+    }
   },
   {
     "nombre": "giaa",
-    "descripcion": "Giaa (Git Analytics): Herramienta de análisis para obtener métricas e información de repositorios Git.",
+    "descripcion": "GIAA (Google Indexing API automator): Herramienta para automatizar la indexación de URLs en Google a través de su API de indexación.",
     "containername": "giaa",
-    "categoria": "📊 Analítica & BI"
+    "categoria": "📊 Analítica & BI",
+    "links": {
+      "github": "https://github.com/m3m3nto/giaa",
+      "website": "",
+      "docs": ""
+    }
   },
   {
     "nombre": "healthchecks",
     "descripcion": "Healthchecks.io: Servicio de monitorización para tareas programadas (cron jobs) y servicios.",
     "containername": "healthchecks",
-    "categoria": "🛠️ DevOps Tools"
+    "categoria": "🔧️ DevOps Tools",
+    "links": {
+      "github": "https://github.com/healthchecks/healthchecks",
+      "website": "https://healthchecks.io/",
+      "docs": "https://healthchecks.io/docs/"
+    }
   },
   {
     "nombre": "libretranslate",
     "descripcion": "LibreTranslate: API de traducción automática gratuita, de código abierto y autoalojable.",
     "containername": "libretranslate",
-    "categoria": "🧠 IA & Automatización"
+    "categoria": "🧠 IA & Automatización",
+    "links": {
+      "github": "https://github.com/LibreTranslate/LibreTranslate",
+      "website": "https://libretranslate.com/",
+      "docs": "https://libretranslate.com/docs/"
+    }
   },
   {
     "nombre": "maldet",
     "descripcion": "Linux Malware Detect (LMD): Escáner de malware para entornos Linux (posiblemente integrado con HestiaCP).",
     "containername": "maldet",
-    "categoria": "🛡️ Seguridad & Backup"
+    "categoria": "🛡️ Seguridad & Backup",
+    "links": {
+      "github": "https://github.com/rfxn/linux-malware-detect",
+      "website": "",
+      "docs": "https://github.com/rfxn/linux-malware-detect/blob/master/README.md"
+    }
   },
   {
     "nombre": "QuantUX",
     "descripcion": "Quant-UX: Herramienta de prototipado, pruebas de usabilidad y análisis (alternativa a Figma/Sketch).",
     "containername": "QuantUX",
-    "categoria": "📦 Herramientas Dev"
+    "categoria": "📦 Herramientas Dev",
+    "links": {
+      "github": "https://github.com/KlausSchaefers/quant-ux",
+      "website": "https://www.quant-ux.com/",
+      "docs": "https://app.quant-ux.com/#/help.html"
+    }
   },
   {
     "nombre": "decidim",
     "descripcion": "Decidim: Plataforma de código abierto para la participación ciudadana y la democracia participativa.",
     "containername": "decidim",
-    "categoria": "🌐 Web & CMS"
+    "categoria": "🌐 Web & CMS",
+    "links": {
+      "github": "https://github.com/decidim/decidim",
+      "website": "https://decidim.org/",
+      "docs": "https://docs.decidim.org/"
+    }
   },
   {
     "nombre": "mixpost",
     "descripcion": "Mixpost: Herramienta de gestión de redes sociales autoalojable para programar publicaciones.",
     "containername": "mixpost",
-    "categoria": "👥 CRM & Marketing"
+    "categoria": "👥 CRM & Marketing",
+    "links": {
+      "github": "https://github.com/inovector/mixpost",
+      "website": "https://mixpost.app/",
+      "docs": "https://mixpost.app/docs/"
+    }
   },
   {
     "nombre": "freepbx",
     "descripcion": "FreePBX: Plataforma de comunicaciones unificadas (UC) basada en Asterisk para crear sistemas PBX VoIP.",
     "containername": "freepbx",
-    "categoria": "🏗️ Infraestructura & Redes"
+    "categoria": "🏗️ Infraestructura & Redes",
+    "links": {
+      "github": "https://github.com/FreePBX/core",
+      "website": "https://www.freepbx.org/",
+      "docs": "https://wiki.freepbx.org/"
+    }
   },
   {
     "nombre": "jsreport",
     "descripcion": "jsreport: Plataforma de informes de código abierto basada en Javascript.",
     "containername": "jsreport",
-    "categoria": "📊 Analítica & BI"
+    "categoria": "📊 Analítica & BI",
+    "links": {
+      "github": "https://github.com/jsreport/jsreport",
+      "website": "https://jsreport.net/",
+      "docs": "https://jsreport.net/learn/"
+    }
   },
   {
     "nombre": "plane",
     "descripcion": "Plane: Plataforma de gestión de proyectos de código abierto (alternativa a Jira/Linear).",
     "containername": "plane",
-    "categoria": "🛠️ DevOps Tools"
+    "categoria": "🔧️ DevOps Tools",
+    "links": {
+      "github": "https://github.com/makeplane/plane",
+      "website": "https://plane.so/",
+      "docs": "https://docs.plane.so/"
+    }
   },
   {
     "nombre": "mailcow",
     "descripcion": "mailcow: dockerized: Suite completa de servidor de correo (Postfix, Dovecot, SOGo, etc.) fácil de gestionar.",
     "containername": "mailcow",
-    "categoria": "🏗️ Infraestructura & Redes"
+    "categoria": "🏗️ Infraestructura & Redes",
+    "links": {
+      "github": "https://github.com/mailcow/mailcow-dockerized",
+      "website": "https://mailcow.email/",
+      "docs": "https://docs.mailcow.email/"
+    }
   },
   {
     "nombre": "unifi",
@@ -1369,19 +1749,34 @@
     "nombre": "azuracast",
     "descripcion": "Azuracast: Suite de gestión y transmisión de radio web autoalojada todo-en-uno.",
     "containername": "azuracast",
-    "categoria": "🎥 Streaming & Medios"
+    "categoria": "🎥 Streaming & Medios",
+    "links": {
+      "github": "https://github.com/AzuraCast/AzuraCast",
+      "website": "https://www.azuracast.com/",
+      "docs": "https://docs.azuracast.com/"
+    }
   },
   {
     "nombre": "fossbilling",
     "descripcion": "FOSSBilling: Software de código abierto para facturación y gestión de clientes (alternativa a WHMCS/Blesta).",
     "containername": "fossbilling",
-    "categoria": "💼 Finanzas & ERP"
+    "categoria": "💼 Finanzas & ERP",
+    "links": {
+      "github": "https://github.com/FOSSBilling/FOSSBilling",
+      "website": "https://fossbilling.org/",
+      "docs": "https://docs.fossbilling.org/"
+    }
   },
   {
     "nombre": "tryton",
     "descripcion": "Tryton: Plataforma ERP (Enterprise Resource Planning) modular y de código abierto.",
     "containername": "tryton",
-    "categoria": "💼 Finanzas & ERP"
+    "categoria": "💼 Finanzas & ERP",
+    "links": {
+      "github": "https://github.com/tryton/tryton",
+      "website": "https://www.tryton.org/",
+      "docs": "https://docs.tryton.org/"
+    }
   },
   {
     "nombre": "audiobookshelf",
@@ -1409,31 +1804,56 @@
     "nombre": "meshcentral",
     "descripcion": "MeshCentral: Plataforma de gestión remota de ordenadores de código abierto.",
     "containername": "meshcentral",
-    "categoria": "🏗️ Infraestructura & Redes"
+    "categoria": "🏗️ Infraestructura & Redes",
+    "links": {
+      "github": "https://github.com/Ylianst/MeshCentral",
+      "website": "https://meshcentral.com/",
+      "docs": "https://meshcentral.com/docs/"
+    }
   },
   {
     "nombre": "kitsu",
     "descripcion": "Kitsu (CGWire): Herramienta de seguimiento de producción para equipos de animación y VFX.",
     "containername": "kitsu",
-    "categoria": "🛠️ DevOps Tools"
+    "categoria": "🔧️ DevOps Tools",
+    "links": {
+      "github": "https://github.com/hummingbird-me/kitsu",
+      "website": "https://kitsu.io/",
+      "docs": "https://github.com/hummingbird-me/kitsu/blob/master/README.md"
+    }
   },
   {
     "nombre": "keycloak",
     "descripcion": "Keycloak: Solución de gestión de identidad y acceso (IAM) de código abierto (SSO, OIDC, SAML).",
     "containername": "keycloak",
-    "categoria": "🛡️ Seguridad & Backup"
+    "categoria": "🛡️ Seguridad & Backup",
+    "links": {
+      "github": "https://github.com/keycloak/keycloak",
+      "website": "https://www.keycloak.org/",
+      "docs": "https://www.keycloak.org/documentation"
+    }
   },
   {
     "nombre": "evolution-api",
     "descripcion": "Evolution API: API no oficial para interactuar con WhatsApp Business.",
     "containername": "evolution-api",
-    "categoria": "💬 Comunicación & Chat"
+    "categoria": "💬 Comunicación & Chat",
+    "links": {
+      "github": "https://github.com/EvolutionAPI/evolution-api",
+      "website": "https://evolution-api.com/",
+      "docs": "https://doc.evolution-api.com/"
+    }
   },
   {
     "nombre": "docuseal",
     "descripcion": "DocuSeal: Plataforma de código abierto para la firma electrónica de documentos (alternativa a DocuSign).",
     "containername": "docuseal",
-    "categoria": "💼 Finanzas & ERP"
+    "categoria": "💼 Finanzas & ERP",
+    "links": {
+      "github": "https://github.com/docusealco/docuseal",
+      "website": "https://www.docuseal.co/",
+      "docs": "https://www.docuseal.co/docs"
+    }
   },
   {
     "nombre": "appsmith",
@@ -1450,31 +1870,56 @@
     "nombre": "jitsi",
     "descripcion": "Jitsi Meet: Solución de videoconferencia segura, gratuita y de código abierto.",
     "containername": "jitsi",
-    "categoria": "💬 Comunicación & Chat"
+    "categoria": "💬 Comunicación & Chat",
+    "links": {
+      "github": "https://github.com/jitsi/jitsi-meet",
+      "website": "https://jitsi.org/",
+      "docs": "https://jitsi.github.io/handbook/"
+    }
   },
   {
     "nombre": "zabbix",
     "descripcion": "Zabbix: Solución de monitorización de redes y aplicaciones de nivel empresarial.",
     "containername": "zabbix",
-    "categoria": "🛠️ DevOps Tools"
+    "categoria": "🛠️ DevOps Tools",
+    "links": {
+      "github": "https://github.com/zabbix/zabbix",
+      "website": "https://www.zabbix.com/",
+      "docs": "https://www.zabbix.com/documentation/current/"
+    }
   },
   {
     "nombre": "rundeck",
     "descripcion": "Rundeck: Plataforma de automatización de runbooks y programación de trabajos para operaciones.",
     "containername": "rundeck",
-    "categoria": "🛠️ DevOps Tools"
+    "categoria": "🛠️ DevOps Tools",
+    "links": {
+      "github": "https://github.com/rundeck/rundeck",
+      "website": "https://www.rundeck.com/",
+      "docs": "https://docs.rundeck.com/docs/"
+    }
   },
   {
     "nombre": "flowiseai",
     "descripcion": "FlowiseAI: Herramienta visual low-code de código abierto para construir flujos personalizados con LLMs.",
     "containername": "flowiseai",
-    "categoria": "🧠 IA & Automatización"
+    "categoria": "🧠 IA & Automatización",
+    "links": {
+      "github": "https://github.com/FlowiseAI/Flowise",
+      "website": "https://flowiseai.com/",
+      "docs": "https://docs.flowiseai.com/"
+    }
   },
   {
     "nombre": "weblate",
     "descripcion": "Weblate: Plataforma de traducción continua para gestionar la localización de software.",
     "containername": "weblate",
-    "categoria": "📦 Herramientas Dev"
+    "categoria": "📦 Herramientas Dev",
+    "links": {
+      "github": "https://github.com/WeblateOrg/weblate",
+      "website": "https://weblate.org/",
+      "docs": "https://docs.weblate.org/"
+    }
   },
   {
     "nombre": "onedev",
@@ -1491,55 +1936,100 @@
     "nombre": "zero-ui",
     "descripcion": "ZeroUI: Interfaz de usuario web para gestionar redes virtuales ZeroTier.",
     "containername": "zero-ui",
-    "categoria": "🏗️ Infraestructura & Redes"
+    "categoria": "🏗️ Infraestructura & Redes",
+    "links": {
+      "github": "https://github.com/dec0dOS/zero-ui",
+      "website": "",
+      "docs": "https://github.com/dec0dOS/zero-ui/blob/main/README.md"
+    }
   },
   {
     "nombre": "fenrus",
     "descripcion": "Fenrus: Dashboard personal y autoalojable para organizar y acceder a tus aplicaciones y enlaces.",
     "containername": "fenrus",
-    "categoria": "🛠️ DevOps Tools"
+    "categoria": "🔧️ DevOps Tools",
+    "links": {
+      "github": "https://github.com/revenz/Fenrus",
+      "website": "",
+      "docs": "https://github.com/revenz/Fenrus/blob/main/README.md"
+    }
   },
   {
     "nombre": "dify",
     "descripcion": "Dify: Plataforma de desarrollo de aplicaciones LLM de código abierto (Backend-as-a-service y MLOps).",
     "containername": "dify",
-    "categoria": "🧠 IA & Automatización"
+    "categoria": "🧠 IA & Automatización",
+    "links": {
+      "github": "https://github.com/langgenius/dify",
+      "website": "https://dify.ai/",
+      "docs": "https://docs.dify.ai/"
+    }
   },
   {
     "nombre": "superagi",
     "descripcion": "SuperAGI: Framework de código abierto para construir, gestionar y ejecutar agentes de IA autónomos.",
     "containername": "superagi",
-    "categoria": "🧠 IA & Automatización"
+    "categoria": "🧠 IA & Automatización",
+    "links": {
+      "github": "https://github.com/TransformerOptimus/SuperAGI",
+      "website": "https://superagi.com/",
+      "docs": "https://docs.superagi.com/"
+    }
   },
   {
     "nombre": "gpt4api",
     "descripcion": "GPT4 API Proxy: API o proxy autoalojable para interactuar con modelos GPT-4/3.5 de OpenAI.",
     "containername": "gpt4api",
-    "categoria": "🧠 IA & Automatización"
+    "categoria": "🧠 IA & Automatización",
+    "links": {
+      "github": "",
+      "website": "",
+      "docs": ""
+    }
   },
   {
     "nombre": "ittools",
     "descripcion": "IT Tools: Colección de herramientas online útiles para desarrolladores y profesionales IT (autoalojable).",
     "containername": "ittools",
-    "categoria": "📦 Herramientas Dev"
+    "categoria": "📬 Herramientas Dev",
+    "links": {
+      "github": "https://github.com/CorentinTh/it-tools",
+      "website": "https://it-tools.tech/",
+      "docs": "https://github.com/CorentinTh/it-tools/blob/main/README.md"
+    }
   },
   {
     "nombre": "wallos",
     "descripcion": "Wallos: Gestor de suscripciones y finanzas personales autoalojable para controlar gastos recurrentes.",
     "containername": "wallos",
-    "categoria": "💼 Finanzas & ERP"
+    "categoria": "💼 Finanzas & ERP",
+    "links": {
+      "github": "https://github.com/ellite/Wallos",
+      "website": "https://wallos.app/",
+      "docs": "https://github.com/ellite/Wallos/blob/main/README.md"
+    }
   },
   {
     "nombre": "tldraw",
     "descripcion": "tldraw: Pizarra digital colaborativa simple, rápida y de código abierto.",
     "containername": "tldraw",
-    "categoria": "📚 Documentación & Wiki"
+    "categoria": "📚 Documentación & Wiki",
+    "links": {
+      "github": "https://github.com/tldraw/tldraw",
+      "website": "https://tldraw.com/",
+      "docs": "https://tldraw.dev/"
+    }
   },
   {
     "nombre": "privatebin",
     "descripcion": "PrivateBin: Pastebin minimalista y seguro donde el servidor no tiene conocimiento de los datos pegados.",
     "containername": "privatebin",
-    "categoria": "🛡️ Seguridad & Backup"
+    "categoria": "🛡️ Seguridad & Backup",
+    "links": {
+      "github": "https://github.com/PrivateBin/PrivateBin",
+      "website": "https://privatebin.info/",
+      "docs": "https://github.com/PrivateBin/PrivateBin/wiki"
+    }
   },
   {
     "nombre": "lobechat",
@@ -1567,19 +2057,34 @@
     "nombre": "siyuan",
     "descripcion": "SiYuan: Base de conocimiento personal (PKM) de próxima generación con enfoque local-first y colaborativo.",
     "containername": "siyuan",
-    "categoria": "📚 Documentación & Wiki"
+    "categoria": "📚 Documentación & Wiki",
+    "links": {
+      "github": "https://github.com/siyuan-note/siyuan",
+      "website": "https://b3log.org/siyuan/",
+      "docs": "https://b3log.org/siyuan/en/guide/"
+    }
   },
   {
     "nombre": "n8nqueue",
     "descripcion": "n8n Queue Mode: Configuración o componente para gestionar colas de ejecución en n8n.",
     "containername": "n8nqueue",
-    "categoria": "🧠 IA & Automatización"
+    "categoria": "🧠 IA & Automatización",
+    "links": {
+      "github": "https://github.com/n8n-io/n8n",
+      "website": "https://n8n.io/",
+      "docs": "https://docs.n8n.io/hosting/scaling/queue-mode/"
+    }
   },
   {
     "nombre": "mailpiller",
     "descripcion": "Mailpit (Mailpiller?): Servidor SMTP local y herramienta de pruebas de correo electrónico con interfaz web.",
     "containername": "mailpiller",
-    "categoria": "📦 Herramientas Dev"
+    "categoria": "📬 Herramientas Dev",
+    "links": {
+      "github": "https://github.com/axllent/mailpiller",
+      "website": "https://mailpiller.com/",
+      "docs": "https://github.com/axllent/mailpiller/blob/main/README.md"
+    }
   },
   {
     "nombre": "botpress",
@@ -1618,7 +2123,12 @@
     "nombre": "Komodo",
     "descripcion": "Komodo es una herramienta que facilita la construcción y el despliegue de software en múltiples servidores. Permite gestionar infraestructuras complejas de manera eficiente y flexible, brindando un enfoque unificado para el manejo de aplicaciones y servicios.",
     "containername": "komodo",
-    "categoria": "🛠️ DevOps Tools"
+    "categoria": "🛠️ DevOps Tools",
+    "links": {
+      "github": "https://github.com/moghtech/komodo",
+      "website": "https://komo.do/",
+      "docs": "https://komo.do/docs/intro"
+    }
   },
   {
     "nombre": "Horilla",
@@ -1630,84 +2140,154 @@
     "nombre": "VitoDeploy",
     "descripcion": "VitoDeploy es una herramienta de código abierto y autoalojada para la gestión de servidores y el despliegue de aplicaciones PHP, especialmente útil para desarrolladores que trabajan con frameworks como Laravel. Su objetivo es simplificar la administración de servidores y automatizar tareas comunes de despliegue, ofreciendo una alternativa gratuita a servicios como Laravel Forge.",
     "containername": "vitodeploy",
-    "categoria": "🛠️ DevOps Tools"
+    "categoria": "🛠️ DevOps Tools",
+    "links": {
+      "github": "https://github.com/vitodeploy/vito",
+      "website": "https://vito-deploy.org/",
+      "docs": "https://vito-deploy.org/docs/"
+    }
   },
   {
     "nombre": "Postiz",
     "descripcion": "Postiz es una herramienta integral de gestión de redes sociales que permite a creadores de contenido, empresas y agencias planificar, crear, programar y analizar publicaciones en múltiples plataformas desde un único panel de control. Su enfoque combina automatización, inteligencia artificial y colaboración en equipo, todo en una solución de código abierto.",
     "containername": "postiz",
-    "categoria": "👥 CRM & Marketing"
+    "categoria": "👥 CRM & Marketing",
+    "links": {
+      "github": "https://github.com/gitroomhq/postiz-app",
+      "website": "https://postiz.com/",
+      "docs": "https://docs.postiz.com/introduction"
+    }
   },
   {
     "nombre": "Evo AI",
     "descripcion": "Evo AI, una plataforma de código abierto diseñada para crear y gestionar agentes de inteligencia artificial (IA). Esta herramienta permite la integración con diversos modelos de lenguaje y servicios de IA, facilitando la construcción de flujos de trabajo complejos y personalizados",
     "containername": "evoai",
-    "categoria": "🧠 IA & Automatización"
+    "categoria": "🧠 IA & Automatización",
+    "links": {
+      "github": "https://github.com/EvolutionAPI/evo-ai",
+      "website": "https://evo-ai.co/",
+      "docs": "https://doc.evolution-api.com/v1/pt/get-started/introduction"
+    }
   },
   {
     "nombre": "MiniQR",
     "descripcion": "MiniQR es una app web de código abierto para crear y escanear códigos QR de forma sencilla y personalizable. Desarrollada con Vue 3, permite añadir colores, marcos, logotipos y exportar en PNG, JPG o SVG. Soporta escaneo desde cámara o imagen, datos como URLs, WiFi, vCards o eventos, y generación por lotes con CSV.",
     "containername": "miniqr",
-    "categoria": "👥 CRM & Marketing"
+    "categoria": "👥 CRM & Marketing",
+    "links": {
+      "github": "https://github.com/lyqht/mini-qr",
+      "website": "",
+      "docs": "https://github.com/lyqht/mini-qr/blob/main/README.md"
+    }
   },
   {
     "nombre": "TrailBase",
     "descripcion": "TrailBase es un servidor de aplicaciones de código abierto, ultra rápido y autoalojable, diseñado como una alternativa ligera a Firebase y Supabase. Su arquitectura está optimizada para el alto rendimiento, con latencias de submilisegundo, incluso sin caché, gracias al uso de Rust, SQLite embebido y el motor V8 para ejecutar lógica en JavaScript o TypeScript.",
     "containername": "trailbase",
-    "categoria": "🌐 Web & CMS"
+    "categoria": "🌐 Web & CMS",
+    "links": {
+      "github": "https://github.com/trailbaseio/trailbase",
+      "website": "https://trailbase.io/",
+      "docs": "https://trailbase.io/getting-started/starting-up"
+    }
   },
   {
     "nombre": "Maxun",
     "descripcion": "Maxun es una plataforma de extracción de datos web de código abierto y sin necesidad de programación, diseñada para facilitar la recopilación automatizada de información desde sitios web. Permite crear robots personalizados que simulan acciones humanas para extraer datos de manera automática, sin requerir conocimientos técnicos avanzados.",
     "containername": "maxun",
-    "categoria": "🧠 IA & Automatización"
+    "categoria": "🧠 IA & Automatización",
+    "links": {
+      "github": "https://github.com/getmaxun/maxun",
+      "website": "https://www.maxun.dev/",
+      "docs": "https://docs.maxun.dev/"
+    }
   },
   {
     "nombre": "NocoBase",
     "descripcion": "NocoBase es una plataforma de desarrollo no-code y low-code de código abierto, diseñada para crear aplicaciones empresariales complejas de forma rápida y flexible. Está pensada para equipos técnicos que necesitan construir sistemas internos como CRM, ERP, paneles administrativos o flujos de trabajo personalizados, sin depender de soluciones propietarias o con limitaciones de personalización.",
     "containername": "nocobase",
-    "categoria": "📊 Analítica & BI"
+    "categoria": "📊 Analítica & BI",
+    "links": {
+      "github": "https://github.com/nocobase/nocobase",
+      "website": "https://www.nocobase.com/",
+      "docs": "https://docs.nocobase.com/"
+    }
   },
   {
     "nombre": "Warracker",
     "descripcion": "Warracker es una aplicación web de código abierto diseñada para ayudarte a gestionar garantías de productos, fechas de expiración y documentos relacionados de manera sencilla y centralizada. Ofrece funcionalidades como almacenamiento de documentos, alertas visuales sobre el estado de las garantías, soporte para múltiples usuarios y exportación/importación de datos.",
     "containername": "warracker",
-    "categoria": "📁 Gestión de archivos"
+    "categoria": "📁 Gestión de archivos",
+    "links": {
+      "github": "https://github.com/sassanix/Warracker",
+      "website": "",
+      "docs": ""
+    }
   },
   {
     "nombre": "Erugo",
     "descripcion": "Erugo es una plataforma de intercambio de archivos autohospedada, de código abierto y gratuita, diseñada como una alternativa moderna a servicios como WeTransfer. Permite subir, proteger y compartir archivos de forma segura a través de una interfaz intuitiva, con opciones avanzadas como protección por contraseña, enlaces de subida inversa, expiración automática de enlaces y autenticación externa. Al estar pensada para ser desplegada en servidores propios mediante Docker, Erugo ofrece a los usuarios control total sobre sus datos y la privacidad de sus transferencias.",
     "containername": "erugo",
-    "categoria": "📁 Gestión de archivos"
+    "categoria": "📁 Gestión de archivos",
+    "links": {
+      "github": "https://github.com/ErugoOSS/Erugo",
+      "website": "https://erugo.app/",
+      "docs": "https://erugo.app/getting-started/"
+    }
   },
   {
     "nombre": "Kutt",
     "descripcion": "Kutt es un acortador de URLs moderno, gratuito y de código abierto, diseñado para ofrecer una alternativa autoalojada a servicios como Bitly, TinyURL o Rebrandly. Permite a los usuarios crear enlaces personalizados, protegerlos con contraseña, establecer fechas de expiración y gestionar estadísticas detalladas de clics. Además, Kutt admite el uso de dominios personalizados y proporciona una API RESTful para integraciones. Su interfaz es minimalista y cuenta con extensiones para navegadores, lo que facilita su uso tanto para usuarios individuales como para organizaciones que buscan controlar y personalizar su propio servicio de acortamiento de enlaces.",
     "containername": "kutt",
-    "categoria": "👥 CRM & Marketing"
+    "categoria": "👥 CRM & Marketing",
+    "links": {
+      "github": "https://github.com/thedevs-network/kutt",
+      "website": "https://kutt.it/",
+      "docs": "https://github.com/thedevs-network/kutt/blob/master/README.md"
+    }
   },
   {
     "nombre": "Perfex CRM",
     "descripcion": "Perfex CRM es un software de gestión de relaciones con clientes (CRM) autoalojado, diseñado para ayudar a pequeñas y medianas empresas, así como a profesionales independientes, a centralizar y automatizar procesos clave como ventas, proyectos, facturación y atención al cliente.",
     "containername": "perfexcrm",
-    "categoria": "👥 CRM & Marketing"
+    "categoria": "👥 CRM & Marketing",
+    "links": {
+      "github": "https://github.com/mstojcevich/perfex-docker",
+      "website": "https://www.perfexcrm.com/",
+      "docs": "https://help.perfexcrm.com/"
+    }
   },
   {
     "nombre": "BackRest",
     "descripcion": "Backrest es una interfaz web y orquestador de copias de seguridad basado en Restic, diseñada para facilitar la gestión de respaldos mediante una interfaz gráfica accesible desde el navegador. Su objetivo principal es simplificar el uso de Restic, una herramienta potente pero centrada en la línea de comandos, proporcionando una experiencia más amigable y accesible.",
     "containername": "backrest",
-    "categoria": "🛡️ Seguridad & Backup"
+    "categoria": "🛡️ Seguridad & Backup",
+    "links": {
+      "github": "https://github.com/garethgeorge/backrest",
+      "website": "https://backrest.io/",
+      "docs": "https://backrest.io/docs/"
+    }
   },
   {
     "nombre": "Bolt.diy",
     "descripcion": "Bolt.diy es la versión de código abierto de Bolt.new, una herramienta de desarrollo web impulsada por inteligencia artificial desarrollada por StackBlitz. Permite crear, editar y desplegar aplicaciones web full-stack directamente desde el navegador, integrando modelos de lenguaje (LLMs) como OpenAI, Anthropic, Mistral, HuggingFace, entre otros.",
     "containername": "bolt.diy",
-    "categoria": "🧠 IA & Automatización"
+    "categoria": "🧠 IA & Automatización",
+    "links": {
+      "github": "https://github.com/stackblitz/bolt.diy",
+      "website": "https://bolt.new/",
+      "docs": "https://github.com/stackblitz/bolt.diy/blob/main/README.md"
+    }
   },
   {
     "nombre": "Teable",
     "descripcion": "Teable es una plataforma de código abierto que ofrece una interfaz tipo hoja de cálculo para gestionar bases de datos PostgreSQL sin necesidad de escribir código. Diseñada como una alternativa a Airtable, permite a los usuarios crear aplicaciones de bases de datos de forma intuitiva y colaborativa.",
     "containername": "teable",
-    "categoria": "📊 Analítica & BI"
+    "categoria": "📊 Analítica & BI",
+    "links": {
+      "github": "https://github.com/teableio/teable",
+      "website": "https://teable.io/",
+      "docs": "https://docs.teable.io/"
+    }
   }
 ]
