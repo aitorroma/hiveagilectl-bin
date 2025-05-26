@@ -3,109 +3,199 @@
     "nombre": "facturascripts",
     "descripcion": "Facturascripts: Software de facturación y contabilidad de código abierto.",
     "containername": "facturascripts",
-    "categoria": "💼 Finanzas & ERP"
+    "categoria": "💼 Finanzas & ERP",
+    "links": {
+      "github": "https://github.com/NeoRazorX/facturascripts",
+      "website": "https://facturascripts.com",
+      "docs": "https://facturascripts.com/ayuda"
+    }
   },
   {
     "nombre": "bookstack",
     "descripcion": "BookStack: Plataforma simple y autoalojada para organizar y almacenar información y documentación.",
     "containername": "bookstack",
-    "categoria": "📚 Documentación & Wiki"
+    "categoria": "📚 Documentación & Wiki",
+    "links": {
+      "github": "https://github.com/BookStackApp/BookStack",
+      "website": "https://www.bookstackapp.com",
+      "docs": "https://www.bookstackapp.com/docs"
+    }
   },
   {
     "nombre": "element-web",
     "descripcion": "Element Web: Cliente web seguro para la red de comunicación descentralizada Matrix.",
     "containername": "element-web",
-    "categoria": "💬 Comunicación & Chat"
+    "categoria": "💬 Comunicación & Chat",
+    "links": {
+      "github": "https://github.com/element-hq/element-web",
+      "website": "https://element.io",
+      "docs": "https://github.com/vector-im/element-web"
+    }
   },
   {
     "nombre": "dockers-hiveagile",
     "descripcion": "Dockers HiveAgile: Repositorio de código fuente para desarrollo y contribuciones (relacionado con HiveAgile).",
     "containername": "dockers-hiveagile",
-    "categoria": "📦 Herramientas Dev"
+    "categoria": "💾 Herramientas Dev",
+    "links": {
+      "github": "https://github.com/hiveagile/dockers",
+      "website": "https://hiveagile.com",
+      "docs": "https://github.com/hiveagile/dockers#readme"
+    }
   },
   {
     "nombre": "snippet-box",
     "descripcion": "Snippet Box: Aplicación web para organizar y gestionar fragmentos de código (snippets).",
     "containername": "snippet-box",
-    "categoria": "📦 Herramientas Dev"
+    "categoria": "💾 Herramientas Dev",
+    "links": {
+      "github": "https://github.com/pawelmalak/snippet-box",
+      "website": "https://github.com/pawelmalak/snippet-box",
+      "docs": "https://github.com/pawelmalak/snippet-box"
+    }
   },
   {
     "nombre": "astuto",
     "descripcion": "Astuto: Herramienta de código abierto para recopilar y gestionar feedback de clientes.",
     "containername": "astuto",
-    "categoria": "👥 CRM & Marketing"
+    "categoria": "👥 CRM & Marketing",
+    "links": {
+      "github": "https://github.com/riggraz/astuto",
+      "website": "https://astuto.io",
+      "docs": "https://docs.astuto.io"
+    }
   },
   {
     "nombre": "vikunja",
     "descripcion": "Vikunja: Aplicación de listas de tareas (to-do) de código abierto y autoalojable.",
     "containername": "vikunja",
-    "categoria": "🛠️ DevOps Tools"
+    "categoria": "🛠️ DevOps Tools",
+    "links": {
+      "github": "https://github.com/go-vikunja",
+      "website": "https://vikunja.io",
+      "docs": "https://vikunja.io/docs/"
+    }
   },
   {
     "nombre": "invoiceninja",
     "descripcion": "Invoice Ninja: Software de facturación y gestión de clientes de código abierto.",
     "containername": "invoiceninja",
-    "categoria": "💼 Finanzas & ERP"
+    "categoria": "💼 Finanzas & ERP",
+    "links": {
+      "github": "https://github.com/invoiceninja/invoiceninja",
+      "website": "https://www.invoiceninja.org",
+      "docs": "https://invoiceninja.github.io/"
+    }
   },
   {
     "nombre": "photoprism",
     "descripcion": "Photoprism: Alternativa autoalojada a Google Photos para gestionar y explorar tu colección de fotos personales.",
     "containername": "photoprism",
-    "categoria": "📁 Gestión de archivos"
+    "categoria": "📁 Gestión de archivos",
+    "links": {
+      "github": "https://github.com/photoprism/photoprism",
+      "website": "https://www.photoprism.app/",
+      "docs": "https://docs.photoprism.app/"
+    }
   },
   {
     "nombre": "pwpush",
     "descripcion": "Password Pusher (pwpush): Aplicación para compartir contraseñas o secretos de forma segura y efímera.",
     "containername": "pwpush",
-    "categoria": "🛡️ Seguridad & Backup"
+    "categoria": "🔑️ Seguridad & Backup",
+    "links": {
+      "github": "https://github.com/pglombardo/PasswordPusher",
+      "website": "https://pwpush.com",
+      "docs": "https://docs.pwpush.com"
+    }
   },
   {
     "nombre": "webtop",
     "descripcion": "Webtop: Entorno de escritorio Linux completo accesible a través de un navegador web.",
     "containername": "webtop",
-    "categoria": "🏗️ Infraestructura & Redes"
+    "categoria": "🛡️ Infraestructura & Redes",
+    "links": {
+      "github": "https://github.com/linuxserver/docker-webtop",
+      "website": "https://docs.linuxserver.io/images/docker-webtop/",
+      "docs": "https://docs.linuxserver.io/images/docker-webtop/"
+    }
   },
   {
     "nombre": "mautic",
     "descripcion": "Mautic: Plataforma de automatización de marketing (Marketing Automation) de código abierto.",
     "containername": "mautic",
-    "categoria": "👥 CRM & Marketing"
+    "categoria": "👥 CRM & Marketing",
+    "links": {
+      "github": "https://github.com/mautic/mautic",
+      "website": "https://mautic.org",
+      "docs": "https://docs.mautic.org/"
+    }
   },
   {
     "nombre": "diagrams",
     "descripcion": "Diagrams.net (Draw.io): Herramienta de diagramación versátil y autoalojada.",
     "containername": "diagrams",
-    "categoria": "📚 Documentación & Wiki"
+    "categoria": "📚 Documentación & Wiki",
+    "links": {
+      "github": "https://github.com/jgraph/drawio",
+      "website": "https://draw.io/",
+      "docs": "https://www.drawio.com/doc/"
+    }
   },
   {
     "nombre": "authelia",
     "descripcion": "Authelia: Servidor de autenticación y autorización de código abierto, actúa como portal de inicio de sesión único (SSO).",
     "containername": "authelia",
-    "categoria": "🛡️ Seguridad & Backup"
+    "categoria": "🔑️ Seguridad & Backup",
+    "links": {
+      "github": "https://github.com/authelia/authelia",
+      "website": "https://www.authelia.com",
+      "docs": "https://www.authelia.com/docs/"
+    }
   },
   {
     "nombre": "duplicati",
     "descripcion": "Duplicati: Software de copias de seguridad (backups) gratuito, de código abierto y con cifrado.",
     "containername": "duplicati",
-    "categoria": "🛡️ Seguridad & Backup"
+    "categoria": "🔑️ Seguridad & Backup",
+    "links": {
+      "github": "https://github.com/duplicati/duplicati",
+      "website": "https://www.duplicati.com",
+      "docs": "https://duplicati.readthedocs.io/en/latest/"
+    }
   },
   {
     "nombre": "gitlab",
     "descripcion": "GitLab: Plataforma completa de DevOps: Repositorios Git, CI/CD, gestión de proyectos y más.",
     "containername": "gitlab",
-    "categoria": "🛠️ DevOps Tools"
+    "categoria": "🛠️ DevOps Tools",
+    "links": {
+      "github": "https://gitlab.com/gitlab-org/gitlab",
+      "website": "https://about.gitlab.com",
+      "docs": "https://docs.gitlab.com"
+    }
   },
   {
     "nombre": "taiga",
     "descripcion": "Taiga: Plataforma de gestión de proyectos Agile de código abierto.",
     "containername": "taiga",
-    "categoria": "🛠️ DevOps Tools"
+    "categoria": "🛠️ DevOps Tools",
+    "links": {
+      "github": "https://github.com/taigaio/taiga-back",
+      "website": "https://www.taiga.io",
+      "docs": "https://docs.taiga.io"
+    }
   },
   {
     "nombre": "ghost",
     "descripcion": "Ghost: Plataforma de publicación y blogging moderna y profesional.",
     "containername": "ghost",
-    "categoria": "🌐 Web & CMS"
+    "categoria": "🌐 Web & CMS",
+    "links": {
+      "github": "https://github.com/TryGhost/Ghost",
+      "website": "https://ghost.org/",
+      "docs": "https://ghost.org/docs/"
+    }
   },
   {
     "nombre": "contabo_snapshots",
@@ -117,55 +207,100 @@
     "nombre": "plausible",
     "descripcion": "Plausible Analytics: Alternativa simple, ligera y centrada en la privacidad a Google Analytics.",
     "containername": "plausible",
-    "categoria": "📊 Analítica & BI"
+    "categoria": "📊 Analítica & BI",
+    "links": {
+      "github": "https://github.com/plausible/plausible",
+      "website": "https://plausible.io/",
+      "docs": "https://plausible.io/docs"
+    }
   },
   {
   "nombre": "rybbit",
   "descripcion": "Rybbit: Plataforma de analítica web ligera, en tiempo real y sin cookies, como alternativa a Google Analytics.",
   "containername": "rybbit",
-  "categoria": "📊 Analítica & BI"
+  "categoria": "📊 Analítica & BI",
+  "links": {
+    "github": "https://github.com/rybbit-io/rybbit",
+    "website": "https://rybbit.io",
+    "docs": "https://www.rybbit.io/docs"
+  }
   },
   {
     "nombre": "ohmyform",
     "descripcion": "OhMyForm: Plataforma de código abierto para crear formularios web interactivos (alternativa a Typeform).",
     "containername": "ohmyform",
-    "categoria": "👥 CRM & Marketing"
+    "categoria": "👥 CRM & Marketing",
+    "links": {
+      "github": "https://github.com/ohmyform/ohmyform",
+      "website": "https://ohmyform.com",
+      "docs": "https://ohmyform.com/docs"
+    }
   },
   {
     "nombre": "grist",
     "descripcion": "Grist: Hoja de cálculo relacional moderna, alternativa de código abierto a Airtable.",
     "containername": "grist",
-    "categoria": "📊 Analítica & BI"
+    "categoria": "📊 Analítica & BI",
+    "links": {
+      "github": "https://github.com/gristlabs/grist",
+      "website": "https://grist.com",
+      "docs": "https://grist.com/docs"
+    }
   },
   {
     "nombre": "castopod",
     "descripcion": "Castopod: Plataforma de alojamiento y gestión de podcasts de código abierto.",
     "containername": "castopod",
-    "categoria": "🎥 Streaming & Medios"
+    "categoria": "🎥 Streaming & Medios",
+    "links": {
+      "github": "https://github.com/castopod/castopod",
+      "website": "https://castopod.org",
+      "docs": "https://castopod.org/docs"
+    }
   },
   {
     "nombre": "powerdns",
     "descripcion": "PowerDNS Admin: Panel de administración web para el servidor DNS PowerDNS.",
     "containername": "powerdns",
-    "categoria": "🏗️ Infraestructura & Redes"
+    "categoria": "🏗️ Infraestructura & Redes",
+    "links": {
+      "github": "https://github.com/PowerDNS/pdns",
+      "website": "https://www.powerdns.com",
+      "docs": "https://doc.powerdns.com/"
+    }
   },
   {
     "nombre": "nextcloud",
     "descripcion": "Nextcloud: Plataforma de colaboración y almacenamiento de archivos en la nube privada (alternativa a Google Drive/Dropbox).",
     "containername": "nextcloud",
-    "categoria": "📁 Gestión de archivos"
+    "categoria": "📁 Gestión de archivos",
+    "links": {
+      "github": "https://github.com/nextcloud/docker",
+      "website": "https://nextcloud.com/",
+      "docs": "https://docs.nextcloud.com/"
+    }
   },
   {
     "nombre": "linkding",
     "descripcion": "Linkding: Gestor de marcadores (bookmarks) simple, rápido y autoalojable.",
     "containername": "linkding",
-    "categoria": "📁 Gestión de archivos"
+    "categoria": "📁 Gestión de archivos",
+    "links": {
+      "github": "https://github.com/sissbruecker/linkding",
+      "website": "https://linkding.link",
+      "docs": "https://linkding.link/installation/"
+    }
   },
   {
     "nombre": "infinitewp",
     "descripcion": "InfiniteWP: Panel para gestionar múltiples sitios WordPress desde una única ubicación.",
     "containername": "infinitewp",
-    "categoria": "🌐 Web & CMS"
+    "categoria": "🌐 Web & CMS",
+    "links": {
+      "github": "",
+      "website": "https://infinitewp.com",
+      "docs": "https://docs.infinitewp.com"
+    }
   },
   {
     "nombre": "wirow",
@@ -189,37 +324,67 @@
     "nombre": "traggo",
     "descripcion": "Traggo: Herramienta simple y autoalojable para el seguimiento del tiempo por etiquetas.",
     "containername": "traggo",
-    "categoria": "🛠️ DevOps Tools"
+    "categoria": "🛠️ DevOps Tools",
+    "links": {
+      "github": "https://github.com/traggo/server",
+      "website": "https://traggo.net",
+      "docs": "https://traggo.net/"
+    }
   },
   {
     "nombre": "minical",
     "descripcion": "Minical: Sistema de gestión de propiedades (PMS) simple y minimalista.",
     "containername": "minical",
-    "categoria": "💼 Finanzas & ERP"
+    "categoria": "💼 Finanzas & ERP",
+    "links": {
+      "github": "https://github.com/minical/minical",
+      "website": "https://minical.io",
+      "docs": "https://docs.minical.io"
+    }
   },
   {
     "nombre": "my-idlers",
     "descripcion": "My Idlers: Aplicación para inventariar VPS, Dominios y Suscripciones Digitales.",
     "containername": "my-idlers",
-    "categoria": "🏗️ Infraestructura & Redes"
+    "categoria": "🏗️ Infraestructura & Redes",
+    "links": {
+      "github": "https://github.com/cp6/my-idlers",
+      "website": "https://demo.myidlers.com",
+      "docs": "https://github.com/cp6/my-idlers"
+    }
   },
   {
     "nombre": "imapsyncui",
     "descripcion": "IMAPSync UI: Interfaz gráfica para migrar correos electrónicos entre servidores IMAP usando imapsync.",
     "containername": "imapsyncui",
-    "categoria": "🏗️ Infraestructura & Redes"
+    "categoria": "🏗️ Infraestructura & Redes",
+    "links": {
+      "github": "https://github.com/imapsync/imapsync",
+      "website": "https://imapsync.lamiral.info/X/",
+      "docs": "https://imapsync.lamiral.info/"
+    }
   },
   {
     "nombre": "chatwoot",
     "descripcion": "Chatwoot: Plataforma de comunicación omnicanal para soporte y ventas (alternativa a Intercom/Zendesk).",
     "containername": "chatwoot",
-    "categoria": "👥 CRM & Marketing"
+    "categoria": "👥 CRM & Marketing",
+    "links": {
+      "github": "https://github.com/chatwoot/chatwoot",
+      "website": "https://www.chatwoot.com",
+      "docs": "https://www.chatwoot.com/docs"
+    }
   },
   {
     "nombre": "typebot.io",
     "descripcion": "Typebot: Plataforma de código abierto para construir bots conversacionales avanzados.",
     "containername": "typebot.io",
-    "categoria": "🧠 IA & Automatización"
+    "categoria": "🧠 IA & Automatización",
+    "links": {
+      "github": "https://github.com/baptisteArno/typebot.io",
+      "website": "https://typebot.io/",
+      "docs": "https://docs.typebot.io/get-started/introduction"
+    }
   },
   {
     "nombre": "lincebi",
@@ -267,7 +432,12 @@
     "nombre": "JellyFin",
     "descripcion": "Jellyfin: Servidor de contenido multimedia gratuito y de código abierto para organizar y transmitir tus medios.",
     "containername": "JellyFin",
-    "categoria": "🎥 Streaming & Medios"
+    "categoria": "🎥 Streaming & Medios",
+    "links": {
+      "github": "https://github.com/jellyfin/jellyfin",
+      "website": "https://jellyfin.org/",
+      "docs": "https://jellyfin.org/docs/"
+    }
   },
   {
     "nombre": "Matomo",
@@ -279,7 +449,12 @@
     "nombre": "UptimeKuma",
     "descripcion": "Uptime Kuma: Herramienta de monitorización de disponibilidad (uptime) autoalojada con interfaz amigable y notificaciones.",
     "containername": "UptimeKuma",
-    "categoria": "🛠️ DevOps Tools"
+    "categoria": "🛠️ DevOps Tools",
+    "links": {
+      "github": "https://github.com/louislam/uptime-kuma",
+      "website": "https://uptime.kuma.pet/",
+      "docs": "https://github.com/louislam/uptime-kuma/wiki"
+    }
   },
   {
     "nombre": "MonicaHQ",
@@ -297,19 +472,34 @@
     "nombre": "Vaultwarden",
     "descripcion": "Vaultwarden: Gestor de contraseñas autoalojado compatible con Bitwarden, escrito en Rust.",
     "containername": "Vaultwarden",
-    "categoria": "🛡️ Seguridad & Backup"
+    "categoria": "🛡️ Seguridad & Backup",
+    "links": {
+      "github": "https://github.com/dani-garcia/vaultwarden",
+      "website": "",
+      "docs": "https://github.com/dani-garcia/vaultwarden/wiki"
+    }
   },
   {
     "nombre": "Focalboard",
     "descripcion": "Focalboard (Mattermost Boards): Alternativa autoalojada de código abierto a Trello, Asana y Notion.",
     "containername": "Focalboard",
-    "categoria": "🛠️ DevOps Tools"
+    "categoria": "🛠️ DevOps Tools",
+    "links": {
+      "github": "https://github.com/sysblok/focalboard",
+      "website": "https://focalboard.com",
+      "docs": "https://www.focalboard.com/docs/"
+    }
   },
   {
     "nombre": "NocoDB",
     "descripcion": "NocoDB: Alternativa de código abierto a Airtable que convierte bases de datos SQL en hojas de cálculo inteligentes.",
     "containername": "NocoDB",
-    "categoria": "📊 Analítica & BI"
+    "categoria": "📊 Analítica & BI",
+    "links": {
+      "github": "https://github.com/nocodb/nocodb",
+      "website": "https://nocodb.com/",
+      "docs": "https://docs.nocodb.com/"
+    }
   },
   {
     "nombre": "Element",
@@ -357,7 +547,12 @@
     "nombre": "Portainer",
     "descripcion": "Portainer: Interfaz gráfica de usuario (UI) web para gestionar entornos Docker y Kubernetes.",
     "containername": "Portainer",
-    "categoria": "🛠️ DevOps Tools"
+    "categoria": "🛠️ DevOps Tools",
+    "links": {
+      "github": "https://github.com/portainer/portainer",
+      "website": "https://www.portainer.io/",
+      "docs": "https://docs.portainer.io/"
+    }
   },
   {
     "nombre": "Alf.io",
@@ -405,7 +600,12 @@
     "nombre": "discourse",
     "descripcion": "Discourse: Plataforma moderna de código abierto para foros de discusión, listas de correo y comunidades online.",
     "containername": "discourse",
-    "categoria": "💬 Comunicación & Chat"
+    "categoria": "💬 Comunicación & Chat",
+    "links": {
+      "github": "https://github.com/discourse/discourse",
+      "website": "https://www.discourse.org/",
+      "docs": "https://meta.discourse.org/"
+    }
   },
   {
     "nombre": "jellyseerr",
@@ -417,7 +617,12 @@
     "nombre": "rsshub",
     "descripcion": "RSSHub: Generador universal de feeds RSS para contenido diverso de la web.",
     "containername": "rsshub",
-    "categoria": "🌐 Web & CMS"
+    "categoria": "🌐 Web & CMS",
+    "links": {
+      "github": "https://github.com/DIYgod/RSSHub",
+      "website": "https://rsshub.app/",
+      "docs": "https://docs.rsshub.app/"
+    }
   },
   {
     "nombre": "screego",
@@ -435,55 +640,100 @@
     "nombre": "meilisearch",
     "descripcion": "MeiliSearch: Motor de búsqueda de código abierto rápido, fácil de usar y relevante.",
     "containername": "meilisearch",
-    "categoria": "📦 Herramientas Dev"
+    "categoria": "📦 Herramientas Dev",
+    "links": {
+      "github": "https://github.com/meilisearch/meilisearch",
+      "website": "https://www.meilisearch.com/",
+      "docs": "https://docs.meilisearch.com/"
+    }
   },
   {
     "nombre": "dragonflydb",
     "descripcion": "DragonflyDB: Almacén de datos en memoria ultrarrápido, compatible con APIs de Redis y Memcached.",
     "containername": "dragonflydb",
-    "categoria": "🏗️ Infraestructura & Redes"
+    "categoria": "🏗️ Infraestructura & Redes",
+    "links": {
+      "github": "https://github.com/dragonflydb/dragonfly",
+      "website": "https://www.dragonflydb.io/",
+      "docs": "https://www.dragonflydb.io/docs"
+    }
   },
   {
     "nombre": "metabase",
     "descripcion": "Metabase: Herramienta de Business Intelligence (BI) y análisis de datos fácil de usar para toda la compañía.",
     "containername": "metabase",
-    "categoria": "📊 Analítica & BI"
+    "categoria": "📊 Analítica & BI",
+    "links": {
+      "github": "https://github.com/metabase/metabase",
+      "website": "https://www.metabase.com/",
+      "docs": "https://www.metabase.com/docs/"
+    }
   },
   {
     "nombre": "baserow",
     "descripcion": "Baserow: Plataforma de base de datos no-code de código abierto (alternativa a Airtable).",
     "containername": "baserow",
-    "categoria": "📊 Analítica & BI"
+    "categoria": "📊 Analítica & BI",
+    "links": {
+      "github": "https://github.com/Baserow/baserow",
+      "website": "https://baserow.io/",
+      "docs": "https://baserow.io/docs/index"
+    }
   },
   {
     "nombre": "keila",
     "descripcion": "Keila: Herramienta de código abierto para envío de newsletters y campañas de email marketing.",
     "containername": "keila",
-    "categoria": "👥 CRM & Marketing"
+    "categoria": "👥 CRM & Marketing",
+    "links": {
+      "github": "https://github.com/pentacent/keila",
+      "website": "https://www.keila.io/",
+      "docs": "https://keila.io/docs"
+    }
   },
   {
     "nombre": "superset",
     "descripcion": "Apache Superset: Plataforma moderna de exploración y visualización de datos (Business Intelligence).",
     "containername": "superset",
-    "categoria": "📊 Analítica & BI"
+    "categoria": "📊 Analítica & BI",
+    "links": {
+      "github": "https://github.com/amancevice/docker-superset",
+      "website": "https://superset.apache.org",
+      "docs": "https://superset.apache.org/docs/intro"
+    }
   },
   {
     "nombre": "mattermost",
     "descripcion": "Mattermost: Plataforma de colaboración y mensajería segura de código abierto (alternativa a Slack/Teams).",
     "containername": "mattermost",
-    "categoria": "💬 Comunicación & Chat"
+    "categoria": "💬 Comunicación & Chat",
+    "links": {
+      "github": "https://github.com/mattermost/mattermost",
+      "website": "https://mattermost.com/",
+      "docs": "https://docs.mattermost.com/"
+    }
   },
   {
     "nombre": "adguard",
     "descripcion": "AdGuard Home + wg-easy: Bloqueador de anuncios a nivel de red y gestión de VPN WireGuard.",
     "containername": "adguard",
-    "categoria": "🏗️ Infraestructura & Redes"
+    "categoria": "🛡️ Infraestructura & Redes",
+    "links": {
+      "github": "https://github.com/AdguardTeam/AdGuardHome",
+      "website": "https://adguard.com/es/adguard-home/overview.html",
+      "docs": "https://github.com/AdguardTeam/AdGuardHome/wiki"
+    }
   },
   {
     "nombre": "pocketbase",
     "descripcion": "PocketBase: Backend de código abierto en un solo archivo con base de datos, autenticación y APIs en tiempo real (alternativa a Firebase).",
     "containername": "pocketbase",
-    "categoria": "📦 Herramientas Dev"
+    "categoria": "📦 Herramientas Dev",
+    "links": {
+      "github": "https://github.com/pocketbase/pocketbase",
+      "website": "https://pocketbase.io/",
+      "docs": "https://pocketbase.io/docs/"
+    }
   },
   {
     "nombre": "BlackStone",
@@ -495,13 +745,23 @@
     "nombre": "immich",
     "descripcion": "Immich: Solución autoalojada de copia de seguridad y visualización de fotos y videos (alternativa a Google Photos).",
     "containername": "immich",
-    "categoria": "📁 Gestión de archivos"
+    "categoria": "📁 Gestión de archivos",
+    "links": {
+      "github": "https://github.com/immich-app/immich",
+      "website": "https://immich.app/",
+      "docs": "https://immich.app/docs/overview/introduction"
+    }
   },
   {
     "nombre": "filebrowser",
     "descripcion": "File Browser: Gestor de archivos web simple y eficaz.",
     "containername": "filebrowser",
-    "categoria": "📁 Gestión de archivos"
+    "categoria": "📁 Gestión de archivos",
+    "links": {
+      "github": "https://github.com/filebrowser/filebrowser",
+      "website": "https://filebrowser.org/",
+      "docs": "https://filebrowser.org/"
+    }
   },
   {
     "nombre": "checkmk",
@@ -555,13 +815,23 @@
     "nombre": "glpi",
     "descripcion": "GLPI: Solución de código abierto para gestión de activos TI (ITAM), Service Desk (ITSM) e inventario.",
     "containername": "glpi",
-    "categoria": "🏗️ Infraestructura & Redes"
+    "categoria": "🏗️ Infraestructura & Redes",
+    "links": {
+      "github": "https://github.com/glpi-project/glpi",
+      "website": "https://glpi-project.org/",
+      "docs": "https://glpi-project.org/documentation/"
+    }
   },
   {
     "nombre": "penpot",
     "descripcion": "Penpot: Plataforma de diseño y prototipado de código abierto para equipos multidisciplinares (alternativa a Figma).",
     "containername": "penpot",
-    "categoria": "📦 Herramientas Dev"
+    "categoria": "📦 Herramientas Dev",
+    "links": {
+      "github": "https://github.com/penpot/penpot",
+      "website": "https://penpot.app/",
+      "docs": "https://docs.penpot.app/"
+    }
   },
   {
     "nombre": "observium",
@@ -597,7 +867,12 @@
     "nombre": "n8n",
     "descripcion": "n8n: Herramienta de automatización de flujos de trabajo extensibles (alternativa OpenSource a Zapier/Make).",
     "containername": "n8n",
-    "categoria": "🧠 IA & Automatización"
+    "categoria": "🧠 IA & Automatización",
+    "links": {
+      "github": "https://github.com/n8n-io/n8n",
+      "website": "https://n8n.io/",
+      "docs": "https://docs.n8n.io/"
+    }
   },
   {
     "nombre": "peertube",
@@ -639,13 +914,23 @@
     "nombre": "answer",
     "descripcion": "Answer: Plataforma de preguntas y respuestas (Q&A) de código abierto para comunidades.",
     "containername": "answer",
-    "categoria": "📚 Documentación & Wiki"
+    "categoria": "📚 Documentación & Wiki",
+    "links": {
+      "github": "https://github.com/apache/answer",
+      "website": "https://answer.apache.org/",
+      "docs": "https://answer.apache.org/docs"
+    }
   },
   {
     "nombre": "kimai",
     "descripcion": "Kimai: Software de seguimiento de tiempo (Time Tracker) gratuito y de código abierto.",
     "containername": "kimai",
-    "categoria": "🛠️ DevOps Tools"
+    "categoria": "🛠️ DevOps Tools",
+    "links": {
+      "github": "https://github.com/kimai/kimai",
+      "website": "https://www.kimai.org",
+      "docs": "https://www.kimai.org/documentation"
+    }
   },
   {
     "nombre": "speedtesttracker",
@@ -687,67 +972,122 @@
     "nombre": "flarum",
     "descripcion": "Flarum: Software de foros moderno, simple y ultrarrápido basado en PHP.",
     "containername": "flarum",
-    "categoria": "💬 Comunicación & Chat"
+    "categoria": "💬 Comunicación & Chat",
+    "links": {
+      "github": "https://github.com/flarum/framework",
+      "website": "https://flarum.org/",
+      "docs": "https://docs.flarum.org/"
+    }
   },
   {
     "nombre": "rxresume",
     "descripcion": "Reactive Resume (rxresume): Constructor de currículums (CV/Resume) gratuito, de código abierto y autoalojable.",
     "containername": "rxresume",
-    "categoria": "📦 Herramientas Dev"
+    "categoria": "💾 Herramientas Dev",
+    "links": {
+      "github": "https://github.com/AmruthPillai/Reactive-Resume",
+      "website": "https://rxresu.me/",
+      "docs": "https://docs.rxresu.me/"
+    }
   },
   {
     "nombre": "fireflyiii",
     "descripcion": "Firefly III: Gestor de finanzas personales autoalojado para controlar gastos e ingresos.",
     "containername": "fireflyiii",
-    "categoria": "💼 Finanzas & ERP"
+    "categoria": "💼 Finanzas & ERP",
+    "links": {
+      "github": "https://github.com/firefly-iii/firefly-iii",
+      "website": "https://www.firefly-iii.org/",
+      "docs": "https://docs.firefly-iii.org/"
+    }
   },
   {
     "nombre": "ToolJet",
     "descripcion": "ToolJet: Plataforma low-code de código abierto para construir y desplegar aplicaciones internas.",
     "containername": "ToolJet",
-    "categoria": "📦 Herramientas Dev"
+    "categoria": "💾 Herramientas Dev",
+    "links": {
+      "github": "https://github.com/ToolJet/ToolJet",
+      "website": "https://www.tooljet.com/",
+      "docs": "https://docs.tooljet.com/"
+    }
   },
   {
     "nombre": "domainmod",
     "descripcion": "DomainMOD: Aplicación de código abierto para gestionar dominios y certificados SSL.",
     "containername": "domainmod",
-    "categoria": "🏗️ Infraestructura & Redes"
+    "categoria": "🛡️ Infraestructura & Redes",
+    "links": {
+      "github": "https://github.com/domainmod/domainmod",
+      "website": "https://domainmod.org/",
+      "docs": "https://domainmod.org/docs/"
+    }
   },
   {
     "nombre": "whatsappAPI",
     "descripcion": "WhatsApp API: API no oficial para interactuar con WhatsApp (posiblemente multidispositivo).",
     "containername": "whatsappAPI",
-    "categoria": "💬 Comunicación & Chat"
+    "categoria": "💬 Comunicación & Chat",
+    "links": {
+      "github": "https://github.com/WhatsApp/WhatsApp-Business-API-Setup-Scripts",
+      "website": "https://developers.facebook.com/docs/whatsapp/",
+      "docs": "https://developers.facebook.com/docs/whatsapp/api/"
+    }
   },
   {
     "nombre": "briefing",
     "descripcion": "Briefing: Servidor de videoconferencia ligero y autoalojado (alternativa a Zoom).",
     "containername": "briefing",
-    "categoria": "💬 Comunicación & Chat"
+    "categoria": "💬 Comunicación & Chat",
+    "links": {
+      "github": "https://github.com/holtwick/briefing",
+      "website": "https://brie.fi/ng",
+      "docs": "https://github.com/holtwick/briefing#readme"
+    }
   },
   {
     "nombre": "qrcode",
     "descripcion": "QR Code Generator: Generador de códigos QR simple y autoalojable.",
     "containername": "qrcode",
-    "categoria": "📦 Herramientas Dev"
+    "categoria": "💾 Herramientas Dev",
+    "links": {
+      "github": "https://github.com/goofmint/qrcode-generator",
+      "website": "https://github.com/goofmint/qrcode-generator",
+      "docs": "https://github.com/goofmint/qrcode-generator#readme"
+    }
   },
   {
     "nombre": "funkwhale",
     "descripcion": "Funkwhale: Servidor de audio federado (ActivityPub) para alojar y compartir música libremente.",
     "containername": "funkwhale",
-    "categoria": "🎥 Streaming & Medios"
+    "categoria": "🎥 Streaming & Medios",
+    "links": {
+      "github": "https://dev.funkwhale.audio/funkwhale/funkwhale",
+      "website": "https://funkwhale.audio/",
+      "docs": "https://docs.funkwhale.audio/"
+    }
   },
   {
     "nombre": "erpnext",
     "descripcion": "ERPNext: Sistema ERP (Enterprise Resource Planning) completo y de código abierto para gestionar negocios.",
     "containername": "erpnext",
-    "categoria": "💼 Finanzas & ERP"
+    "categoria": "💼 Finanzas & ERP",
+    "links": {
+      "github": "https://github.com/frappe/erpnext",
+      "website": "https://erpnext.com",
+      "docs": "https://docs.frappe.io/erpnext"
+    }
   },
   {
     "nombre": "StirlingPDF",
     "descripcion": "Stirling PDF: Herramienta web autoalojada todo-en-uno para manipular archivos PDF.",
     "containername": "StirlingPDF",
-    "categoria": "📁 Gestión de archivos"
+    "categoria": "📁 Gestión de archivos",
+    "links": {
+      "github": "https://github.com/Stirling-Tools/Stirling-PDF",
+      "website": "https://www.stirlingpdf.com/",
+      "docs": "https://docs.stirlingpdf.com/"
+    }
   },
   {
     "nombre": "sftpgo",
@@ -765,55 +1105,100 @@
     "nombre": "RocketChat",
     "descripcion": "Rocket.Chat: Plataforma de comunicación y colaboración en equipo de código abierto (alternativa a Slack).",
     "containername": "RocketChat",
-    "categoria": "💬 Comunicación & Chat"
+    "categoria": "💬 Comunicación & Chat",
+    "links": {
+      "github": "https://github.com/RocketChat/Rocket.Chat",
+      "website": "https://www.rocket.chat/",
+      "docs": "https://docs.rocket.chat/"
+    }
   },
   {
     "nombre": "gotenberg",
     "descripcion": "Gotenberg: API Dockerizada sin estado para convertir documentos (HTML, Markdown, Office) a PDF.",
     "containername": "gotenberg",
-    "categoria": "📦 Herramientas Dev"
+    "categoria": "📦 Herramientas Dev",
+    "links": {
+      "github": "https://github.com/gotenberg/gotenberg",
+      "website": "https://gotenberg.dev",
+      "docs": "https://gotenberg.dev/docs/getting-started/introduction"
+    }
   },
   {
     "nombre": "huntly",
     "descripcion": "Huntly: Lector de RSS y servicio de guardar-para-leer-después (alternativa a Pocket/Instapaper).",
     "containername": "huntly",
-    "categoria": "📚 Documentación & Wiki"
+    "categoria": "📚 Documentación & Wiki",
+    "links": {
+      "github": "https://github.com/lcomplete/huntly",
+      "website": "https://github.com/lcomplete/huntly",
+      "docs": "https://github.com/lcomplete/huntly/blob/master/README.md"
+    }
   },
   {
     "nombre": "gibbon",
     "descripcion": "Gibbon: Plataforma de gestión escolar (School Management System) flexible y de código abierto.",
     "containername": "gibbon",
-    "categoria": "💼 Finanzas & ERP"
+    "categoria": "💼 Finanzas & ERP",
+    "links": {
+      "github": "https://github.com/GibbonEdu/core",
+      "website": "https://gibbonedu.org/",
+      "docs": "https://docs.gibbonedu.org/"
+    }
   },
   {
     "nombre": "yourls",
     "descripcion": "YOURLS (Your Own URL Shortener): Tu propio acortador de URLs autoalojado.",
     "containername": "yourls",
-    "categoria": "🌐 Web & CMS"
+    "categoria": "🌐 Web & CMS",
+    "links": {
+      "github": "https://github.com/YOURLS/YOURLS",
+      "website": "https://yourls.org/",
+      "docs": "https://yourls.org/#documentation"
+    }
   },
   {
     "nombre": "mainwp",
     "descripcion": "MainWP: Panel de control para gestionar de forma centralizada múltiples sitios WordPress.",
     "containername": "mainwp",
-    "categoria": "🌐 Web & CMS"
+    "categoria": "🌐 Web & CMS",
+    "links": {
+      "github": "https://github.com/mainwp/mainwp",
+      "website": "https://mainwp.com/",
+      "docs": "https://kb.mainwp.com/"
+    }
   },
   {
     "nombre": "budibase",
     "descripcion": "Budibase: Plataforma low-code de código abierto para construir rápidamente aplicaciones y herramientas internas.",
     "containername": "budibase",
-    "categoria": "📦 Herramientas Dev"
+    "categoria": "📦 Herramientas Dev",
+    "links": {
+      "github": "https://github.com/Budibase/budibase",
+      "website": "https://budibase.com/",
+      "docs": "https://docs.budibase.com/docs/"
+    }
   },
   {
     "nombre": "rustdesk",
     "descripcion": "RustDesk: Software de escritorio remoto de código abierto (alternativa a TeamViewer/AnyDesk).",
     "containername": "rustdesk",
-    "categoria": "🏗️ Infraestructura & Redes"
+    "categoria": "🛡️ Infraestructura & Redes",
+    "links": {
+      "github": "https://github.com/rustdesk/rustdesk",
+      "website": "https://rustdesk.com",
+      "docs": "https://rustdesk.com/docs/en/"
+    }
   },
   {
     "nombre": "directus",
     "descripcion": "Directus: Plataforma de datos instantánea (Headless CMS / Backend as a Service) sobre cualquier base de datos SQL.",
     "containername": "directus",
-    "categoria": "🌐 Web & CMS"
+    "categoria": "🌐 Web & CMS",
+    "links": {
+      "github": "https://github.com/directus/directus",
+      "website": "https://directus.io/",
+      "docs": "https://docs.directus.io/"
+    }
   },
   {
     "nombre": "littlelink",
@@ -951,19 +1336,34 @@
     "nombre": "unifi",
     "descripcion": "UniFi Network Controller: Software de gestión para dispositivos de red Ubiquiti UniFi.",
     "containername": "unifi",
-    "categoria": "🏗️ Infraestructura & Redes"
+    "categoria": "🏗️ Infraestructura & Redes",
+    "links": {
+      "github": "https://github.com/ubiquiti",
+      "website": "https://www.ui.com/",
+      "docs": "https://help.ui.com/hc/en-us/articles/360012282453-Self-Hosting-a-UniFi-Network-Server"
+    }
   },
   {
     "nombre": "freescout",
     "descripcion": "FreeScout: Herramienta de Help Desk y bandeja de entrada compartida de código abierto (alternativa a Help Scout/Zendesk).",
     "containername": "freescout",
-    "categoria": "👥 CRM & Marketing"
+    "categoria": "👥 CRM & Marketing",
+    "links": {
+      "github": "https://github.com/freescout-helpdesk/freescout",
+      "website": "https://freescout.net/",
+      "docs": "https://github.com/freescout-helpdesk/freescout/wiki/Installation-Guide"
+    }
   },
   {
     "nombre": "wikijs",
     "descripcion": "Wiki.js: Motor de wiki moderno, potente y de código abierto.",
     "containername": "wikijs",
-    "categoria": "📚 Documentación & Wiki"
+    "categoria": "📚 Documentación & Wiki",
+    "links": {
+      "github": "https://github.com/requarks/wiki",
+      "website": "https://js.wiki/",
+      "docs": "https://docs.requarks.io/"
+    }
   },
   {
     "nombre": "azuracast",
@@ -987,13 +1387,23 @@
     "nombre": "audiobookshelf",
     "descripcion": "Audiobookshelf: Servidor autoalojado para tus audiolibros y podcasts.",
     "containername": "audiobookshelf",
-    "categoria": "🎥 Streaming & Medios"
+    "categoria": "🎥 Streaming & Medios",
+    "links": {
+      "github": "https://github.com/advplyr/audiobookshelf",
+      "website": "https://www.audiobookshelf.org",
+      "docs": "https://www.audiobookshelf.org/docs"
+    }
   },
   {
     "nombre": "odoo",
     "descripcion": "Odoo: Suite de aplicaciones empresariales de código abierto (ERP, CRM, Sitio Web, eCommerce, etc.).",
     "containername": "odoo",
-    "categoria": "💼 Finanzas & ERP"
+    "categoria": "💼 Finanzas & ERP",
+    "links": {
+      "github": "https://github.com/odoo/odoo",
+      "website": "https://odoo.com/",
+      "docs": "https://www.odoo.com/documentation/"
+    }
   },
   {
     "nombre": "meshcentral",
@@ -1029,7 +1439,12 @@
     "nombre": "appsmith",
     "descripcion": "Appsmith: Plataforma low-code de código abierto para construir aplicaciones y herramientas internas.",
     "containername": "appsmith",
-    "categoria": "📦 Herramientas Dev"
+    "categoria": "📦 Herramientas Dev",
+    "links": {
+      "github": "https://github.com/appsmithorg/appsmith",
+      "website": "https://appsmith.com/",
+      "docs": "https://docs.appsmith.com/"
+    }
   },
   {
     "nombre": "jitsi",
@@ -1065,7 +1480,12 @@
     "nombre": "onedev",
     "descripcion": "OneDev: Servidor Git autoalojado con CI/CD, gestión de issues y revisión de código integrada.",
     "containername": "onedev",
-    "categoria": "🛠️ DevOps Tools"
+    "categoria": "🛠️ DevOps Tools",
+    "links": {
+      "github": "https://github.com/theonedev/onedev/",
+      "website": "https://onedev.io/",
+      "docs": "https://docs.onedev.io/"
+    }
   },
   {
     "nombre": "zero-ui",
@@ -1125,13 +1545,23 @@
     "nombre": "lobechat",
     "descripcion": "LobeChat: Interfaz de chat de código abierto, extensible y autoalojable para modelos de lenguaje (GPT, Claude, etc.).",
     "containername": "lobechat",
-    "categoria": "🧠 IA & Automatización"
+    "categoria": "🧠 IA & Automatización",
+    "links": {
+      "github": "https://github.com/lobehub/lobe-chat",
+      "website": "https://chat-preview.lobehub.com",
+      "docs": "https://github.com/lobehub/lobe-chat/wiki"
+    }
   },
   {
     "nombre": "calcom",
     "descripcion": "Cal.com: Infraestructura de programación de citas de código abierto (alternativa a Calendly).",
     "containername": "calcom",
-    "categoria": "💬 Comunicación & Chat"
+    "categoria": "💬 Comunicación & Chat",
+    "links": {
+      "github": "https://github.com/calcom/cal.com",
+      "website": "https://cal.com/",
+      "docs": "https://cal.com/docs"
+    }
   },
   {
     "nombre": "siyuan",
@@ -1155,19 +1585,34 @@
     "nombre": "botpress",
     "descripcion": "Botpress: Plataforma de código abierto para construir y desplegar chatbots conversacionales basados en IA.",
     "containername": "botpress",
-    "categoria": "🧠 IA & Automatización"
+    "categoria": "🧠 IA & Automatización",
+    "links": {
+      "github": "https://github.com/botpress/botpress",
+      "website": "https://botpress.com/",
+      "docs": "https://botpress.com/docs"
+    }
   },
   {
     "nombre": "docmost",
-    "descripcion": "Docmost: Sistema de gestión documental ligero y autoalojable.",
+    "descripcion": "DocMost es un sistema de gestión documental de código abierto con funciones de búsqueda y colaboración.",
     "containername": "docmost",
-    "categoria": "📁 Gestión de archivos"
+    "categoria": "📚 Documentación & Wiki",
+    "links": {
+      "github": "https://github.com/docmost/docmost",
+      "website": "https://docmost.com/",
+      "docs": "https://docs.docmost.com/"
+    }
   },
   {
     "nombre": "evolution_v2",
-    "descripcion": "Evolution API V2: Nueva versión de la API no oficial para interactuar con WhatsApp Business.",
+    "descripcion": "Evolution API: API REST para WhatsApp que permite la automatización y gestión de múltiples instancias.",
     "containername": "evolution_v2",
-    "categoria": "💬 Comunicación & Chat"
+    "categoria": "💬 Comunicación & Chat",
+    "links": {
+      "github": "https://github.com/evolution-api/evolution-api",
+      "website": "https://evolution-api.com/",
+      "docs": "https://doc.evolution-api.com/"
+    }
   },
   {
     "nombre": "Komodo",
