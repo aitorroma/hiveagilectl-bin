@@ -1258,5 +1258,11 @@
     "descripcion": "Bolt.diy es la versión de código abierto de Bolt.new, una herramienta de desarrollo web impulsada por inteligencia artificial desarrollada por StackBlitz. Permite crear, editar y desplegar aplicaciones web full-stack directamente desde el navegador, integrando modelos de lenguaje (LLMs) como OpenAI, Anthropic, Mistral, HuggingFace, entre otros.",
     "containername": "bolt.diy",
     "categoria": "🧠 IA & Automatización"
+  },
+  {
+    "nombre": "Teable",
+    "descripcion": "Teable es una plataforma de código abierto que ofrece una interfaz tipo hoja de cálculo para gestionar bases de datos PostgreSQL sin necesidad de escribir código. Diseñada como una alternativa a Airtable, permite a los usuarios crear aplicaciones de bases de datos de forma intuitiva y colaborativa.",
+    "containername": "teable",
+    "categoria": "📊 Analítica & BI"
   }
 ]
