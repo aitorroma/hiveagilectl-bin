@@ -1254,9 +1254,9 @@
     "categoria": "🛡️ Seguridad & Backup"
   },
   {
-    "nombre": "Bold.diy",
+    "nombre": "Bolt.diy",
     "descripcion": "Bolt.diy es la versión de código abierto de Bolt.new, una herramienta de desarrollo web impulsada por inteligencia artificial desarrollada por StackBlitz. Permite crear, editar y desplegar aplicaciones web full-stack directamente desde el navegador, integrando modelos de lenguaje (LLMs) como OpenAI, Anthropic, Mistral, HuggingFace, entre otros.",
-    "containername": "bold.diy",
+    "containername": "bolt.diy",
     "categoria": "🧠 IA & Automatización"
   }
 ]
