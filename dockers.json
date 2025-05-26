@@ -526,7 +526,12 @@
     "nombre": "ElkarBackup",
     "descripcion": "ElkarBackup: Solución de copias de seguridad centralizada basada en Rsnapshot y Rsync, con interfaz web.",
     "containername": "ElkarBackup",
-    "categoria": "🛡️ Seguridad & Backup"
+    "categoria": "🛡️ Seguridad & Backup",
+    "links": {
+      "github": "https://github.com/elkarbackup/elkarbackup",
+      "website": "https://www.elkarbackup.org",
+      "docs": "https://docs.elkarbackup.org/docs/introduction.html"
+    }
   },
   {
     "nombre": "Vaultwarden",
@@ -576,19 +581,34 @@
     "nombre": "ArchiveBox",
     "descripcion": "ArchiveBox: Archivo personal y autoalojado de sitios web (alternativa a Wayback Machine / archive.org).",
     "containername": "ArchiveBox",
-    "categoria": "📁 Gestión de archivos"
+    "categoria": "📁 Gestión de archivos",
+    "links": {
+      "github": "https://github.com/ArchiveBox/ArchiveBox",
+      "website": "https://archivebox.io/",
+      "docs": "https://github.com/ArchiveBox/ArchiveBox/wiki"
+    }
   },
   {
     "nombre": "Polaris",
     "descripcion": "Polaris: Servidor de transmisión de música (streaming) de código abierto y autoalojable.",
     "containername": "Polaris",
-    "categoria": "🎥 Streaming & Medios"
+    "categoria": "🎥 Streaming & Medios",
+    "links": {
+      "github": "https://github.com/agersant/polaris",
+      "website": "https://demo.polaris.stream",
+      "docs": "https://github.com/agersant/polaris/tree/master/docs"
+    }
   },
   {
     "nombre": "Remotely",
     "descripcion": "Remotely: Solución de código abierto para control remoto y soporte técnico.",
     "containername": "Remotely",
-    "categoria": "🏗️ Infraestructura & Redes"
+    "categoria": "🏗️ Infraestructura & Redes",
+    "links": {
+      "github": "https://github.com/immense/Remotely",
+      "website": "",
+      "docs": ""
+    }
   },
   {
     "nombre": "PodGrab",
@@ -2134,7 +2154,12 @@
     "nombre": "Horilla",
     "descripcion": "Horilla es un software gratuito y de código abierto para la gestión de recursos humanos (HRMS) diseñado para ayudar a las organizaciones a automatizar y optimizar sus procesos de RR. HH. Desarrollado sobre el framework Django, Horilla ofrece una solución ERP integral que se puede personalizar según las necesidades específicas de cada empresa .",
     "containername": "horilla",
-    "categoria": "💼 Finanzas & ERP"
+    "categoria": "💼 Finanzas & ERP",
+    "links": {
+      "github": "https://github.com/horilla-opensource/horilla/",
+      "website": "https://www.horilla.com/",
+      "docs": "https://www.horilla.com/docs/"
+    }
   },
   {
     "nombre": "VitoDeploy",
