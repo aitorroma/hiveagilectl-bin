@@ -36,7 +36,7 @@
     "nombre": "dockers-hiveagile",
     "descripcion": "Dockers HiveAgile: Repositorio de código fuente para desarrollo y contribuciones (relacionado con HiveAgile).",
     "containername": "dockers-hiveagile",
-    "categoria": "💾 Herramientas Dev",
+    "categoria": "📦 Herramientas Dev",
     "links": {
       "github": "https://github.com/hiveagile/dockers",
       "website": "https://hiveagile.com",
@@ -47,7 +47,7 @@
     "nombre": "snippet-box",
     "descripcion": "Snippet Box: Aplicación web para organizar y gestionar fragmentos de código (snippets).",
     "containername": "snippet-box",
-    "categoria": "💾 Herramientas Dev",
+    "categoria": "📦 Herramientas Dev",
     "links": {
       "github": "https://github.com/pawelmalak/snippet-box",
       "website": "https://github.com/pawelmalak/snippet-box",
@@ -438,7 +438,7 @@
     "nombre": "playbooks",
     "descripcion": "Ansible Playbooks: Repositorio con playbooks de Ansible de ejemplo para usar con Semaphore u otros.",
     "containername": "playbooks",
-    "categoria": "💶 Herramientas Dev",
+    "categoria": "📦 Herramientas Dev",
     "links": {
       "github": "not found",
       "website": "not found",
@@ -614,7 +614,7 @@
     "nombre": "PodGrab",
     "descripcion": "PodGrab: Administrador y descargador de podcasts autoalojado.",
     "containername": "PodGrab",
-    "categoria": "🎙️ Streaming & Medios",
+    "categoria": "🎥 Streaming & Medios",
     "links": {
       "github": "https://github.com/akhilrex/podgrab",
       "website": "",
@@ -702,7 +702,7 @@
     "nombre": "Kavita",
     "descripcion": "Kavita: Servidor rápido y multifuncional para leer manga, cómics y libros.",
     "containername": "Kavita",
-    "categoria": "🎙️ Streaming & Medios",
+    "categoria": "🎥 Streaming & Medios",
     "links": {
       "github": "https://github.com/Kareadita/Kavita",
       "website": "https://www.kavitareader.com/",
@@ -713,7 +713,7 @@
     "nombre": "Navidrome",
     "descripcion": "Navidrome: Servidor de música moderno y autoalojado compatible con clientes Subsonic/WebDAV.",
     "containername": "Navidrome",
-    "categoria": "🎙️ Streaming & Medios",
+    "categoria": "🎥 Streaming & Medios",
     "links": {
       "github": "https://github.com/navidrome/navidrome",
       "website": "https://www.navidrome.org/",
@@ -746,7 +746,7 @@
     "nombre": "jellyseerr",
     "descripcion": "Jellyseerr: Sistema de gestión de solicitudes para bibliotecas multimedia (Jellyfin/Plex).",
     "containername": "jellyseerr",
-    "categoria": "🎙️ Streaming & Medios",
+    "categoria": "🎥 Streaming & Medios",
     "links": {
       "github": "https://github.com/Fallenbagel/jellyseerr",
       "website": "https://jellyseerr.dev/",
@@ -1098,7 +1098,7 @@
     "nombre": "peertube",
     "descripcion": "PeerTube: Plataforma federada (ActivityPub) y descentralizada para alojamiento y streaming de vídeo.",
     "containername": "peertube",
-    "categoria": "🎙️ Streaming & Medios",
+    "categoria": "🎥 Streaming & Medios",
     "links": {
       "github": "https://github.com/Chocobozzz/PeerTube",
       "website": "https://joinpeertube.org/",
@@ -1263,7 +1263,7 @@
     "nombre": "rxresume",
     "descripcion": "Reactive Resume (rxresume): Constructor de currículums (CV/Resume) gratuito, de código abierto y autoalojable.",
     "containername": "rxresume",
-    "categoria": "💾 Herramientas Dev",
+    "categoria": "📦 Herramientas Dev",
     "links": {
       "github": "https://github.com/AmruthPillai/Reactive-Resume",
       "website": "https://rxresu.me/",
@@ -1285,7 +1285,7 @@
     "nombre": "ToolJet",
     "descripcion": "ToolJet: Plataforma low-code de código abierto para construir y desplegar aplicaciones internas.",
     "containername": "ToolJet",
-    "categoria": "💾 Herramientas Dev",
+    "categoria": "📦 Herramientas Dev",
     "links": {
       "github": "https://github.com/ToolJet/ToolJet",
       "website": "https://www.tooljet.com/",
@@ -1329,7 +1329,7 @@
     "nombre": "qrcode",
     "descripcion": "QR Code Generator: Generador de códigos QR simple y autoalojable.",
     "containername": "qrcode",
-    "categoria": "💾 Herramientas Dev",
+    "categoria": "📦 Herramientas Dev",
     "links": {
       "github": "https://github.com/goofmint/qrcode-generator",
       "website": "https://github.com/goofmint/qrcode-generator",
@@ -1516,7 +1516,7 @@
     "nombre": "mathesar",
     "descripcion": "Mathesar: Interfaz intuitiva para gestionar, visualizar y colaborar en bases de datos PostgreSQL.",
     "containername": "mathesar",
-    "categoria": "📬 Herramientas Dev",
+    "categoria": "📦 Herramientas Dev",
     "links": {
       "github": "https://github.com/centerofci/mathesar",
       "website": "https://mathesar.org/",
@@ -2011,7 +2011,7 @@
     "nombre": "ittools",
     "descripcion": "IT Tools: Colección de herramientas online útiles para desarrolladores y profesionales IT (autoalojable).",
     "containername": "ittools",
-    "categoria": "📬 Herramientas Dev",
+    "categoria": "📦 Herramientas Dev",
     "links": {
       "github": "https://github.com/CorentinTh/it-tools",
       "website": "https://it-tools.tech/",
@@ -2099,7 +2099,7 @@
     "nombre": "mailpiller",
     "descripcion": "Mailpit (Mailpiller?): Servidor SMTP local y herramienta de pruebas de correo electrónico con interfaz web.",
     "containername": "mailpiller",
-    "categoria": "📬 Herramientas Dev",
+    "categoria": "📦 Herramientas Dev",
     "links": {
       "github": "https://github.com/axllent/mailpiller",
       "website": "https://mailpiller.com/",
