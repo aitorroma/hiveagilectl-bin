@@ -2274,9 +2274,9 @@
     "containername": "bolt.diy",
     "categoria": "🧠 IA & Automatización",
     "links": {
-      "github": "https://github.com/stackblitz/bolt.diy",
+      "github": "https://github.com/stackblitz-labs/bolt.diy",
       "website": "https://bolt.new/",
-      "docs": "https://github.com/stackblitz/bolt.diy/blob/main/README.md"
+      "docs": "https://stackblitz-labs.github.io/bolt.diy/"
     }
   },
   {
