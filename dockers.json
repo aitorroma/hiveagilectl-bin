@@ -1246,5 +1246,11 @@
     "descripcion": "Perfex CRM es un software de gestión de relaciones con clientes (CRM) autoalojado, diseñado para ayudar a pequeñas y medianas empresas, así como a profesionales independientes, a centralizar y automatizar procesos clave como ventas, proyectos, facturación y atención al cliente.",
     "containername": "perfexcrm",
     "categoria": "👥 CRM & Marketing"
+  },
+  {
+    "nombre": "BackRest",
+    "descripcion": "Backrest es una interfaz web y orquestador de copias de seguridad basado en Restic, diseñada para facilitar la gestión de respaldos mediante una interfaz gráfica accesible desde el navegador. Su objetivo principal es simplificar el uso de Restic, una herramienta potente pero centrada en la línea de comandos, proporcionando una experiencia más amigable y accesible.",
+    "containername": "backrest",
+    "categoria": "🛡️ Seguridad & Backup"
   }
 ]
