@@ -102,7 +102,7 @@
     "nombre": "pwpush",
     "descripcion": "Password Pusher (pwpush): Aplicación para compartir contraseñas o secretos de forma segura y efímera.",
     "containername": "pwpush",
-    "categoria": "🔑️ Seguridad & Backup",
+    "categoria": "🛡️ Seguridad & Backup",
     "links": {
       "github": "https://github.com/pglombardo/PasswordPusher",
       "website": "https://pwpush.com",
@@ -146,7 +146,7 @@
     "nombre": "authelia",
     "descripcion": "Authelia: Servidor de autenticación y autorización de código abierto, actúa como portal de inicio de sesión único (SSO).",
     "containername": "authelia",
-    "categoria": "🔑️ Seguridad & Backup",
+    "categoria": "🛡️ Seguridad & Backup",
     "links": {
       "github": "https://github.com/authelia/authelia",
       "website": "https://www.authelia.com",
@@ -157,7 +157,7 @@
     "nombre": "duplicati",
     "descripcion": "Duplicati: Software de copias de seguridad (backups) gratuito, de código abierto y con cifrado.",
     "containername": "duplicati",
-    "categoria": "🔑️ Seguridad & Backup",
+    "categoria": "🛡️ Seguridad & Backup",
     "links": {
       "github": "https://github.com/duplicati/duplicati",
       "website": "https://www.duplicati.com",
@@ -427,7 +427,7 @@
     "nombre": "ansible_semaphore",
     "descripcion": "Ansible Semaphore + Gogs: Interfaz gráfica para Ansible y servidor Git ligero.",
     "containername": "ansible_semaphore",
-    "categoria": "🔧️ DevOps Tools",
+    "categoria": "🛠️ DevOps Tools",
     "links": {
       "github": "https://github.com/semaphoreui/semaphore",
       "website": "https://semaphoreui.com/",
@@ -471,7 +471,7 @@
     "nombre": "redmine",
     "descripcion": "Redmine: Aplicación web flexible para la gestión de proyectos y seguimiento de incidencias.",
     "containername": "redmine",
-    "categoria": "🔧️ DevOps Tools",
+    "categoria": "🛠️ DevOps Tools",
     "links": {
       "github": "https://github.com/redmine/redmine",
       "website": "https://www.redmine.org/",
@@ -922,7 +922,7 @@
     "nombre": "checkmk",
     "descripcion": "Checkmk: Solución completa de monitorización de infraestructura IT y aplicaciones.",
     "containername": "checkmk",
-    "categoria": "🔧️ DevOps Tools",
+    "categoria": "🛠️ DevOps Tools",
     "links": {
       "github": "https://github.com/Checkmk/checkmk",
       "website": "https://checkmk.com/",
@@ -944,7 +944,7 @@
     "nombre": "leantime",
     "descripcion": "Leantime: Sistema de gestión de proyectos de código abierto basado en metodologías Lean y Agile.",
     "containername": "leantime",
-    "categoria": "🔧️ DevOps Tools",
+    "categoria": "🛠️ DevOps Tools",
     "links": {
       "github": "https://github.com/Leantime/leantime",
       "website": "https://leantime.io/",
@@ -1219,7 +1219,7 @@
     "nombre": "planka",
     "descripcion": "Planka: Tablero Kanban de código abierto para gestión de tareas y proyectos (alternativa a Trello).",
     "containername": "planka",
-    "categoria": "🔧️ DevOps Tools",
+    "categoria": "🛠️ DevOps Tools",
     "links": {
       "github": "https://github.com/plankanban/planka",
       "website": "https://planka.app/",
@@ -1384,7 +1384,7 @@
     "nombre": "mind",
     "descripcion": "Mind breathing: Aplicación simple de recordatorios y ejercicios de respiración.",
     "containername": "mind",
-    "categoria": "🔧️ DevOps Tools",
+    "categoria": "🛠️ DevOps Tools",
     "links": {
       "github": "https://github.com/Casvt/MIND",
       "website": "",
@@ -1626,7 +1626,7 @@
     "nombre": "healthchecks",
     "descripcion": "Healthchecks.io: Servicio de monitorización para tareas programadas (cron jobs) y servicios.",
     "containername": "healthchecks",
-    "categoria": "🔧️ DevOps Tools",
+    "categoria": "🛠️ DevOps Tools",
     "links": {
       "github": "https://github.com/healthchecks/healthchecks",
       "website": "https://healthchecks.io/",
@@ -1714,7 +1714,7 @@
     "nombre": "plane",
     "descripcion": "Plane: Plataforma de gestión de proyectos de código abierto (alternativa a Jira/Linear).",
     "containername": "plane",
-    "categoria": "🔧️ DevOps Tools",
+    "categoria": "🛠️ DevOps Tools",
     "links": {
       "github": "https://github.com/makeplane/plane",
       "website": "https://plane.so/",
@@ -1835,7 +1835,7 @@
     "nombre": "kitsu",
     "descripcion": "Kitsu (CGWire): Herramienta de seguimiento de producción para equipos de animación y VFX.",
     "containername": "kitsu",
-    "categoria": "🔧️ DevOps Tools",
+    "categoria": "🛠️ DevOps Tools",
     "links": {
       "github": "https://github.com/hummingbird-me/kitsu",
       "website": "https://kitsu.io/",
@@ -1967,7 +1967,7 @@
     "nombre": "fenrus",
     "descripcion": "Fenrus: Dashboard personal y autoalojable para organizar y acceder a tus aplicaciones y enlaces.",
     "containername": "fenrus",
-    "categoria": "🔧️ DevOps Tools",
+    "categoria": "🛠️ DevOps Tools",
     "links": {
       "github": "https://github.com/revenz/Fenrus",
       "website": "",
