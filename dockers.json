@@ -1252,5 +1252,11 @@
     "descripcion": "Backrest es una interfaz web y orquestador de copias de seguridad basado en Restic, diseñada para facilitar la gestión de respaldos mediante una interfaz gráfica accesible desde el navegador. Su objetivo principal es simplificar el uso de Restic, una herramienta potente pero centrada en la línea de comandos, proporcionando una experiencia más amigable y accesible.",
     "containername": "backrest",
     "categoria": "🛡️ Seguridad & Backup"
+  },
+  {
+    "nombre": "Bold.diy",
+    "descripcion": "Bolt.diy es la versión de código abierto de Bolt.new, una herramienta de desarrollo web impulsada por inteligencia artificial desarrollada por StackBlitz. Permite crear, editar y desplegar aplicaciones web full-stack directamente desde el navegador, integrando modelos de lenguaje (LLMs) como OpenAI, Anthropic, Mistral, HuggingFace, entre otros.",
+    "containername": "bold.diy",
+    "categoria": "🧠 IA & Automatización"
   }
 ]
