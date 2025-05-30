@@ -2314,5 +2314,16 @@
       "website": "https://teable.io/",
       "docs": "https://docs.teable.io/"
     }
+  },
+  {
+    "nombre": "OpenWebUI + LiteLLM",
+    "descripcion": "OpenWebUI + LiteLLM con autenticación y persistencia en PostgreSQL. OpenWebUI es una interfaz web intuitiva para interactuar con modelos de lenguaje (LLMs), mientras que LiteLLM actúa como proxy inteligente para proveedores como OpenAI, Azure u Ollama. Permite definir qué modelos están disponibles, limitar el uso por usuario o IP, aplicar prompts base personalizados (por ejemplo, para entornos educativos o corporativos), y registrar toda la actividad en base de datos. Ideal para despliegues autogestionados en empresas u organizaciones que necesitan control, auditoría y personalización en el uso de IA, asegurando acceso seguro mediante clave maestra y cifrado con salt.",
+    "containername": "openwebui-litellm",
+    "categoria": "🧠 IA & Automatización",
+    "links": {
+      "github": "https://github.com/open-webui/open-webui",
+      "website": "https://openwebui.com/",
+      "docs": "https://docs.litellm.ai/docs/tutorials/openweb_ui"
+    }
   }
 ]
