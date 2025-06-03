@@ -2325,5 +2325,16 @@
       "website": "https://openwebui.com/",
       "docs": "https://docs.litellm.ai/docs/tutorials/openweb_ui"
     }
+  },
+    {
+    "nombre": "Ai Studio",
+    "descripcion": "AI Studio es una aplicación web moderna desarrollada por Aitor Roma en Next.js y React que permite a los usuarios transformar imágenes utilizando inteligencia artificial de forma sencilla e intuitiva. Ofrece múltiples métodos de entrada (subida de archivos y captura con cámara web) y una amplia variedad de estilos de transformación organizados en categorías como Anime, Moda, Estilos Artísticos, Futuristas, Fotográficos, Restauración y Retoques Físicos. Con una interfaz elegante de tema oscuro y completamente dockerizada para facilitar su despliegue, permite crear desde fotos profesionales para LinkedIn hasta transformaciones artísticas, restauraciones de imágenes antiguas y mejoras físicas, todo con un simple clic y sin necesidad de conocimientos técnicos avanzados.",
+    "containername": "aistudio",
+    "categoria": "🧠 IA & Automatización",
+    "links": {
+      "github": "",
+      "website": "",
+      "docs": ""
+    }
   }
 ]
